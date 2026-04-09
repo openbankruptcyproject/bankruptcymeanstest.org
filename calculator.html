@@ -158,7 +158,7 @@ footer a{color:var(--accent)}
 </head>
 <body>
 <header>
-<a href="/">Means Test Guide</a> | <a href="/calculator.html" style="color:var(--text-bright);font-weight:600">Calculator</a> | <a href="https://1328f.com?utm_source=bankruptcymeanstest.org&utm_medium=referral&utm_campaign=btn-network">Discharge Screener</a> | <a href="https://1328f.org?utm_source=bankruptcymeanstest.org&utm_medium=referral&utm_campaign=btn-network">Research</a>
+<a href="/">Means Test Guide</a> | <a href="/calculator.html" style="color:var(--text-bright);font-weight:600">Calculator</a> | <a href="https://1328f.com">Discharge Screener</a> | <a href="https://1328f.org">Research</a>
 </header>
 
 <div class="container">
@@ -544,9 +544,9 @@ footer a{color:var(--accent)}
 <div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
   <p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
   <ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
-  <li><a href="https://727a8.org?utm_source=bankruptcymeanstest.org&utm_medium=crosslink&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none">Chapter 7 Filing Bar Rules</a></li>
-  <li><a href="https://whatischapter7.com?utm_source=bankruptcymeanstest.org&utm_medium=crosslink&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none">What is Chapter 7 Bankruptcy?</a></li>
-  <li><a href="https://whatischapter7.org?utm_source=bankruptcymeanstest.org&utm_medium=crosslink&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none">Chapter 7 Bankruptcy Guide</a></li>
+  <li><a href="https://727a8.org" style="color:#58a6ff;text-decoration:none">Chapter 7 Filing Bar Rules</a></li>
+  <li><a href="https://whatischapter7.com" style="color:#58a6ff;text-decoration:none">What is Chapter 7 Bankruptcy?</a></li>
+  <li><a href="https://whatischapter7.org" style="color:#58a6ff;text-decoration:none">Chapter 7 Bankruptcy Guide</a></li>
   </ul>
 </div>
 
@@ -1005,13 +1005,13 @@ Part of the <a href="https://1328f.org?utm_source=bankruptcymeanstest.org&utm_me
     if (passes) {
       resultExplanation.innerHTML = '<strong>What this means:</strong> Based on the income you entered, your annualized gross income (' + fmt(annualIncome) + ') is below the ' + state + ' median of ' + fmt(median) + ' for a ' + hh + '-person household. You pass Part 1 of the means test. You would still need to file <a href="https://www.uscourts.gov/forms/means-test-forms" target="_blank" rel="noopener">Form 122A-1</a>, but the full expense calculation (Form 122A-2) is not required.<br><br><strong>Next steps:</strong> Consult with a bankruptcy attorney or petition preparer to confirm your eligibility and discuss whether Chapter 7 is the best option for your situation.';
     } else {
-      resultExplanation.innerHTML = '<strong>What this means:</strong> Your annualized income (' + fmt(annualIncome) + ') exceeds the ' + state + ' median of ' + fmt(median) + ' for a ' + hh + '-person household by ' + fmt(diff) + '. This does <strong>not</strong> mean you are disqualified. You would need to complete Part 2 of the means test (<a href="https://www.uscourts.gov/forms/means-test-forms" target="_blank" rel="noopener">Form 122A-2</a>), which deducts IRS-standard living expenses, actual secured debt payments, and priority debt obligations from your income.<br><br><strong>Many filers with above-median income still pass Part 2.</strong> Key deductions include mortgage/rent, vehicle payments, health insurance, child care, taxes, and mandatory payroll deductions. If your disposable income after these deductions is below the statutory threshold, you qualify for Chapter 7.<br><br><strong>Alternatively,</strong> <a href="https://chapter7vs13.org?utm_source=bankruptcymeanstest.org&utm_medium=referral&utm_campaign=btn-network">Chapter 13 bankruptcy</a> does not have an income ceiling and allows you to reorganize debts over 3-5 years while keeping your property.';
+      resultExplanation.innerHTML = '<strong>What this means:</strong> Your annualized income (' + fmt(annualIncome) + ') exceeds the ' + state + ' median of ' + fmt(median) + ' for a ' + hh + '-person household by ' + fmt(diff) + '. This does <strong>not</strong> mean you are disqualified. You would need to complete Part 2 of the means test (<a href="https://www.uscourts.gov/forms/means-test-forms" target="_blank" rel="noopener">Form 122A-2</a>), which deducts IRS-standard living expenses, actual secured debt payments, and priority debt obligations from your income.<br><br><strong>Many filers with above-median income still pass Part 2.</strong> Key deductions include mortgage/rent, vehicle payments, health insurance, child care, taxes, and mandatory payroll deductions. If your disposable income after these deductions is below the statutory threshold, you qualify for Chapter 7.<br><br><strong>Alternatively,</strong> <a href="https://chapter7vs13.org">Chapter 13 bankruptcy</a> does not have an income ceiling and allows you to reorganize debts over 3-5 years while keeping your property.';
     }
 
     if (passes) {
-      resultCta.innerHTML = '<a href="https://1328f.com?utm_source=bankruptcymeanstest.org&utm_medium=referral&utm_campaign=btn-network">Check Discharge Eligibility</a> <a href="https://www.justice.gov/ust/means-testing" target="_blank" rel="noopener" style="background:var(--surface);border:1px solid var(--border)">Official DOJ Data</a>';
+      resultCta.innerHTML = '<a href="https://1328f.com">Check Discharge Eligibility</a> <a href="https://www.justice.gov/ust/means-testing" target="_blank" rel="noopener" style="background:var(--surface);border:1px solid var(--border)">Official DOJ Data</a>';
     } else {
-      resultCta.innerHTML = '<a href="#" onclick="showPart2();return false;" style="background:linear-gradient(135deg,#d29922,#e3a82b)">Continue to Part 2: Expense Deductions</a> <a href="https://1328f.com?utm_source=bankruptcymeanstest.org&utm_medium=referral&utm_campaign=btn-network" style="background:var(--surface);border:1px solid var(--border)">Check Discharge Eligibility</a>';
+      resultCta.innerHTML = '<a href="#" onclick="showPart2();return false;" style="background:linear-gradient(135deg,#d29922,#e3a82b)">Continue to Part 2: Expense Deductions</a> <a href="https://1328f.com" style="background:var(--surface);border:1px solid var(--border)">Check Discharge Eligibility</a>';
     }
 
     resultArea.style.display = 'block';
@@ -1220,10 +1220,10 @@ Part of the <a href="https://1328f.org?utm_source=bankruptcymeanstest.org&utm_me
     if (passes2) {
       resultExplanation.innerHTML = '<strong>What this means:</strong> After applying IRS-allowed expense deductions, your 60-month disposable income of ' + fmt(sixtyMonth) + ' falls ' + (sixtyMonth <= THRESHOLD_NO_ABUSE ? 'below the $8,175 threshold' : 'in the middle zone but below 25% of your unsecured debt') + '. There is <strong>no presumption of abuse</strong> under 11 U.S.C. Section 707(b)(2). You should be able to file Chapter 7.<br><br><strong>Important:</strong> This is an estimate based on IRS national and state-level standards. The official Form 122A-2 uses county-level housing data and may produce slightly different results. Always verify with the official forms or consult a bankruptcy professional before filing.';
     } else {
-      resultExplanation.innerHTML = '<strong>What this means:</strong> Your 60-month disposable income of ' + fmt(sixtyMonth) + ' exceeds the threshold. Under 11 U.S.C. Section 707(b)(2), there is a <strong>presumption of abuse</strong> that can be rebutted by showing "special circumstances" such as serious medical conditions, military service, or other extraordinary expenses.<br><br><strong>Options:</strong> (1) Review your actual county-level housing allowance, which may be higher than the state average used here. (2) Check if you qualify for any exemptions from the means test (disabled veteran, non-consumer debts). (3) Consider <a href="https://chapter7vs13.org?utm_source=bankruptcymeanstest.org&utm_medium=referral&utm_campaign=btn-network">Chapter 13 bankruptcy</a>, which has no income ceiling. (4) Consult a bankruptcy attorney about potential special circumstances.';
+      resultExplanation.innerHTML = '<strong>What this means:</strong> Your 60-month disposable income of ' + fmt(sixtyMonth) + ' exceeds the threshold. Under 11 U.S.C. Section 707(b)(2), there is a <strong>presumption of abuse</strong> that can be rebutted by showing "special circumstances" such as serious medical conditions, military service, or other extraordinary expenses.<br><br><strong>Options:</strong> (1) Review your actual county-level housing allowance, which may be higher than the state average used here. (2) Check if you qualify for any exemptions from the means test (disabled veteran, non-consumer debts). (3) Consider <a href="https://chapter7vs13.org">Chapter 13 bankruptcy</a>, which has no income ceiling. (4) Consult a bankruptcy attorney about potential special circumstances.';
     }
 
-    resultCta.innerHTML = '<a href="https://1328f.com?utm_source=bankruptcymeanstest.org&utm_medium=referral&utm_campaign=btn-network">Check Discharge Eligibility</a> <a href="https://www.uscourts.gov/forms/means-test-forms" target="_blank" rel="noopener" style="background:var(--surface);border:1px solid var(--border)">Download Official Form 122A-2</a>';
+    resultCta.innerHTML = '<a href="https://1328f.com">Check Discharge Eligibility</a> <a href="https://www.uscourts.gov/forms/means-test-forms" target="_blank" rel="noopener" style="background:var(--surface);border:1px solid var(--border)">Download Official Form 122A-2</a>';
 
     document.getElementById('p2-result-area').style.display = 'block';
     document.getElementById('p2-result-area').scrollIntoView({ behavior: 'smooth', block: 'start' });

@@ -19,6 +19,7 @@ bankruptcymeanstest.org is part of the Open Bankruptcy Project (openbankruptcypr
 - Means Test Expense Deductions (2026): https://bankruptcymeanstest.org/expense-deductions.html
 - Frequently Asked Questions About Means Test Guide: https://bankruptcymeanstest.org/faq.html
 - Chapter 7 Means Test Florida: Income Limits and Calculator: https://bankruptcymeanstest.org/florida.html
+- Means Test FAQ - Chapter 7 Eligibility Questions Answered: https://bankruptcymeanstest.org/frequently-asked-questions.html
 - Chapter 7 Means Test Georgia: Income Limits and Calculator: https://bankruptcymeanstest.org/georgia.html
 - Chapter 7 Means Test Hawaii: Income Limits and Calculator: https://bankruptcymeanstest.org/hawaii.html
 - How the Bankruptcy Means Test Works (2026): https://bankruptcymeanstest.org/how-means-test-works.html
@@ -65,7 +66,7 @@ bankruptcymeanstest.org is part of the Open Bankruptcy Project (openbankruptcypr
 - Chapter 7 Means Test West Virginia: Income Limits and Calculator: https://bankruptcymeanstest.org/west-virginia.html
 - Chapter 7 Means Test Wisconsin: Income Limits and Calculator: https://bankruptcymeanstest.org/wisconsin.html
 - Chapter 7 Means Test Wyoming: Income Limits and Calculator: https://bankruptcymeanstest.org/wyoming.html
-- Means Test FAQ -- Chapter 7 Eligibility Questions Answered: https://bankruptcymeanstest.org/frequently-asked-questions.html
+- Privacy Policy: https://bankruptcymeanstest.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

@@ -1,0 +1,1783 @@
+{
+  "Alabama": [
+    {
+      "code": "almbk",
+      "district_letter": "m",
+      "district_name": "Middle",
+      "ch7_2024": 14,
+      "ch13_2024": 47,
+      "ch11_2024": 8,
+      "ch12_2024": 0,
+      "ch7_2023": 10,
+      "ch13_2023": 48,
+      "ch13_stats_5yr": {
+        "filed": 255,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 56,
+        "discharged": 0
+      }
+    },
+    {
+      "code": "alnbk",
+      "district_letter": "n",
+      "district_name": "Northern",
+      "ch7_2024": 38,
+      "ch13_2024": 17,
+      "ch11_2024": 21,
+      "ch12_2024": 1,
+      "ch7_2023": 15,
+      "ch13_2023": 17,
+      "ch13_stats_5yr": {
+        "filed": 77,
+        "dismissed": 1,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 114,
+        "discharged": 0
+      }
+    }
+  ],
+  "Alaska": [
+    {
+      "code": "akbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Arizona": [
+    {
+      "code": "azbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 1,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 1,
+        "discharged": 1
+      }
+    }
+  ],
+  "Arkansas": [
+    {
+      "code": "arebk",
+      "district_letter": "e",
+      "district_name": "Eastern",
+      "ch7_2024": 19,
+      "ch13_2024": 13,
+      "ch11_2024": 16,
+      "ch12_2024": 2,
+      "ch7_2023": 22,
+      "ch13_2023": 7,
+      "ch13_stats_5yr": {
+        "filed": 48,
+        "dismissed": 2,
+        "discharged": 1
+      },
+      "ch7_stats_5yr": {
+        "filed": 65,
+        "discharged": 0
+      }
+    },
+    {
+      "code": "arwbk",
+      "district_letter": "w",
+      "district_name": "Western",
+      "ch7_2024": 11,
+      "ch13_2024": 18,
+      "ch11_2024": 16,
+      "ch12_2024": 1,
+      "ch7_2023": 6,
+      "ch13_2023": 18,
+      "ch13_stats_5yr": {
+        "filed": 60,
+        "dismissed": 0,
+        "discharged": 1
+      },
+      "ch7_stats_5yr": {
+        "filed": 29,
+        "discharged": 1
+      }
+    }
+  ],
+  "California": [
+    {
+      "code": "cacbk",
+      "district_letter": "c",
+      "district_name": "Central",
+      "ch7_2024": 106,
+      "ch13_2024": 8,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 3,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 58,
+        "dismissed": 32,
+        "discharged": 14
+      },
+      "ch7_stats_5yr": {
+        "filed": 574,
+        "discharged": 554
+      }
+    },
+    {
+      "code": "caebk",
+      "district_letter": "e",
+      "district_name": "Eastern",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 6,
+      "ch13_2023": 1,
+      "ch13_stats_5yr": {
+        "filed": 2,
+        "dismissed": 2,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 20,
+        "discharged": 17
+      }
+    },
+    {
+      "code": "canbk",
+      "district_letter": "n",
+      "district_name": "Northern",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    },
+    {
+      "code": "casbk",
+      "district_letter": "s",
+      "district_name": "Southern",
+      "ch7_2024": 1,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 1,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 2,
+        "dismissed": 2,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 3,
+        "discharged": 2
+      }
+    }
+  ],
+  "Colorado": [
+    {
+      "code": "cobk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 1,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 1,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Connecticut": [
+    {
+      "code": "ctbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Delaware": [
+    {
+      "code": "debk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 1,
+      "ch13_2024": 0,
+      "ch11_2024": 1,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 1,
+        "discharged": 0
+      }
+    }
+  ],
+  "Florida": [
+    {
+      "code": "flmbk",
+      "district_letter": "m",
+      "district_name": "Middle",
+      "ch7_2024": 391,
+      "ch13_2024": 163,
+      "ch11_2024": 11,
+      "ch12_2024": 0,
+      "ch7_2023": 256,
+      "ch13_2023": 170,
+      "ch13_stats_5yr": {
+        "filed": 488,
+        "dismissed": 282,
+        "discharged": 26
+      },
+      "ch7_stats_5yr": {
+        "filed": 991,
+        "discharged": 950
+      }
+    },
+    {
+      "code": "flnbk",
+      "district_letter": "n",
+      "district_name": "Northern",
+      "ch7_2024": 6,
+      "ch13_2024": 6,
+      "ch11_2024": 1,
+      "ch12_2024": 0,
+      "ch7_2023": 11,
+      "ch13_2023": 8,
+      "ch13_stats_5yr": {
+        "filed": 39,
+        "dismissed": 23,
+        "discharged": 3
+      },
+      "ch7_stats_5yr": {
+        "filed": 47,
+        "discharged": 42
+      }
+    },
+    {
+      "code": "flsbk",
+      "district_letter": "s",
+      "district_name": "Southern",
+      "ch7_2024": 620,
+      "ch13_2024": 729,
+      "ch11_2024": 46,
+      "ch12_2024": 1,
+      "ch7_2023": 179,
+      "ch13_2023": 401,
+      "ch13_stats_5yr": {
+        "filed": 2290,
+        "dismissed": 880,
+        "discharged": 392
+      },
+      "ch7_stats_5yr": {
+        "filed": 1666,
+        "discharged": 1459
+      }
+    }
+  ],
+  "Georgia": [
+    {
+      "code": "gambk",
+      "district_letter": "m",
+      "district_name": "Middle",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 15,
+        "dismissed": 4,
+        "discharged": 9
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    },
+    {
+      "code": "ganbk",
+      "district_letter": "n",
+      "district_name": "Northern",
+      "ch7_2024": 115,
+      "ch13_2024": 4,
+      "ch11_2024": 158,
+      "ch12_2024": 0,
+      "ch7_2023": 68,
+      "ch13_2023": 8,
+      "ch13_stats_5yr": {
+        "filed": 25,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 281,
+        "discharged": 3
+      }
+    }
+  ],
+  "Hawaii": [
+    {
+      "code": "hibk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Idaho": [
+    {
+      "code": "idbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Illinois": [
+    {
+      "code": "ilcbk",
+      "district_letter": "c",
+      "district_name": "Central",
+      "ch7_2024": 0,
+      "ch13_2024": 2,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 1,
+      "ch13_2023": 4,
+      "ch13_stats_5yr": {
+        "filed": 25,
+        "dismissed": 6,
+        "discharged": 7
+      },
+      "ch7_stats_5yr": {
+        "filed": 3,
+        "discharged": 3
+      }
+    },
+    {
+      "code": "ilnbk",
+      "district_letter": "n",
+      "district_name": "Northern",
+      "ch7_2024": 77,
+      "ch13_2024": 122,
+      "ch11_2024": 29,
+      "ch12_2024": 0,
+      "ch7_2023": 75,
+      "ch13_2023": 176,
+      "ch13_stats_5yr": {
+        "filed": 741,
+        "dismissed": 161,
+        "discharged": 208
+      },
+      "ch7_stats_5yr": {
+        "filed": 273,
+        "discharged": 131
+      }
+    },
+    {
+      "code": "ilsbk",
+      "district_letter": "s",
+      "district_name": "Southern",
+      "ch7_2024": 1,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 2,
+      "ch13_2023": 3,
+      "ch13_stats_5yr": {
+        "filed": 18,
+        "dismissed": 3,
+        "discharged": 8
+      },
+      "ch7_stats_5yr": {
+        "filed": 7,
+        "discharged": 7
+      }
+    }
+  ],
+  "Indiana": [
+    {
+      "code": "innbk",
+      "district_letter": "n",
+      "district_name": "Northern",
+      "ch7_2024": 47,
+      "ch13_2024": 160,
+      "ch11_2024": 18,
+      "ch12_2024": 0,
+      "ch7_2023": 12,
+      "ch13_2023": 141,
+      "ch13_stats_5yr": {
+        "filed": 540,
+        "dismissed": 70,
+        "discharged": 56
+      },
+      "ch7_stats_5yr": {
+        "filed": 100,
+        "discharged": 26
+      }
+    },
+    {
+      "code": "insbk",
+      "district_letter": "s",
+      "district_name": "Southern",
+      "ch7_2024": 35,
+      "ch13_2024": 242,
+      "ch11_2024": 31,
+      "ch12_2024": 0,
+      "ch7_2023": 25,
+      "ch13_2023": 181,
+      "ch13_stats_5yr": {
+        "filed": 786,
+        "dismissed": 61,
+        "discharged": 135
+      },
+      "ch7_stats_5yr": {
+        "filed": 101,
+        "discharged": 40
+      }
+    }
+  ],
+  "Iowa": [
+    {
+      "code": "iasbk",
+      "district_letter": "s",
+      "district_name": "Southern",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Kansas": [
+    {
+      "code": "ksbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 537,
+      "ch13_2024": 820,
+      "ch11_2024": 18,
+      "ch12_2024": 0,
+      "ch7_2023": 443,
+      "ch13_2023": 790,
+      "ch13_stats_5yr": {
+        "filed": 3504,
+        "dismissed": 858,
+        "discharged": 848
+      },
+      "ch7_stats_5yr": {
+        "filed": 2336,
+        "discharged": 2280
+      }
+    }
+  ],
+  "Kentucky": [
+    {
+      "code": "kyebk",
+      "district_letter": "e",
+      "district_name": "Eastern",
+      "ch7_2024": 50,
+      "ch13_2024": 94,
+      "ch11_2024": 15,
+      "ch12_2024": 0,
+      "ch7_2023": 17,
+      "ch13_2023": 94,
+      "ch13_stats_5yr": {
+        "filed": 432,
+        "dismissed": 45,
+        "discharged": 114
+      },
+      "ch7_stats_5yr": {
+        "filed": 112,
+        "discharged": 47
+      }
+    },
+    {
+      "code": "kywbk",
+      "district_letter": "w",
+      "district_name": "Western",
+      "ch7_2024": 11,
+      "ch13_2024": 99,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 2,
+      "ch13_2023": 150,
+      "ch13_stats_5yr": {
+        "filed": 488,
+        "dismissed": 89,
+        "discharged": 114
+      },
+      "ch7_stats_5yr": {
+        "filed": 17,
+        "discharged": 14
+      }
+    }
+  ],
+  "Louisiana": [
+    {
+      "code": "laebk",
+      "district_letter": "e",
+      "district_name": "Eastern",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    },
+    {
+      "code": "lambk",
+      "district_letter": "m",
+      "district_name": "Middle",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    },
+    {
+      "code": "lawbk",
+      "district_letter": "w",
+      "district_name": "Western",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Maine": [
+    {
+      "code": "mebk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Maryland": [
+    {
+      "code": "mdbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 39,
+      "ch13_2024": 5,
+      "ch11_2024": 40,
+      "ch12_2024": 0,
+      "ch7_2023": 14,
+      "ch13_2023": 7,
+      "ch13_stats_5yr": {
+        "filed": 30,
+        "dismissed": 1,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 106,
+        "discharged": 1
+      }
+    }
+  ],
+  "Massachusetts": [
+    {
+      "code": "mabk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 7,
+      "ch13_2024": 1,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 1,
+        "dismissed": 1,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 7,
+        "discharged": 6
+      }
+    }
+  ],
+  "Michigan": [
+    {
+      "code": "miebk",
+      "district_letter": "e",
+      "district_name": "Eastern",
+      "ch7_2024": 31,
+      "ch13_2024": 8,
+      "ch11_2024": 31,
+      "ch12_2024": 1,
+      "ch7_2023": 26,
+      "ch13_2023": 26,
+      "ch13_stats_5yr": {
+        "filed": 118,
+        "dismissed": 22,
+        "discharged": 3
+      },
+      "ch7_stats_5yr": {
+        "filed": 108,
+        "discharged": 3
+      }
+    },
+    {
+      "code": "miwbk",
+      "district_letter": "w",
+      "district_name": "Western",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Minnesota": [
+    {
+      "code": "mnbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Mississippi": [
+    {
+      "code": "msnbk",
+      "district_letter": "n",
+      "district_name": "Northern",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    },
+    {
+      "code": "mssbk",
+      "district_letter": "s",
+      "district_name": "Southern",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Missouri": [
+    {
+      "code": "moebk",
+      "district_letter": "e",
+      "district_name": "Eastern",
+      "ch7_2024": 1,
+      "ch13_2024": 2,
+      "ch11_2024": 1,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 4,
+        "dismissed": 0,
+        "discharged": 1
+      },
+      "ch7_stats_5yr": {
+        "filed": 1,
+        "discharged": 1
+      }
+    },
+    {
+      "code": "mowbk",
+      "district_letter": "w",
+      "district_name": "Western",
+      "ch7_2024": 387,
+      "ch13_2024": 749,
+      "ch11_2024": 7,
+      "ch12_2024": 0,
+      "ch7_2023": 297,
+      "ch13_2023": 711,
+      "ch13_stats_5yr": {
+        "filed": 3137,
+        "dismissed": 954,
+        "discharged": 622
+      },
+      "ch7_stats_5yr": {
+        "filed": 1817,
+        "discharged": 1729
+      }
+    }
+  ],
+  "Montana": [
+    {
+      "code": "mtbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Nebraska": [
+    {
+      "code": "nebk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Nevada": [
+    {
+      "code": "nvbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 2,
+        "dismissed": 1,
+        "discharged": 1
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "New Hampshire": [
+    {
+      "code": "nhbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "New Jersey": [
+    {
+      "code": "njbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 69,
+      "ch13_2024": 203,
+      "ch11_2024": 2,
+      "ch12_2024": 0,
+      "ch7_2023": 25,
+      "ch13_2023": 157,
+      "ch13_stats_5yr": {
+        "filed": 554,
+        "dismissed": 124,
+        "discharged": 57
+      },
+      "ch7_stats_5yr": {
+        "filed": 180,
+        "discharged": 166
+      }
+    }
+  ],
+  "New Mexico": [
+    {
+      "code": "nmbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "New York": [
+    {
+      "code": "nyebk",
+      "district_letter": "e",
+      "district_name": "Eastern",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 2,
+        "discharged": 2
+      }
+    },
+    {
+      "code": "nysbk",
+      "district_letter": "s",
+      "district_name": "Southern",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 1,
+      "ch13_stats_5yr": {
+        "filed": 4,
+        "dismissed": 3,
+        "discharged": 1
+      },
+      "ch7_stats_5yr": {
+        "filed": 1,
+        "discharged": 1
+      }
+    },
+    {
+      "code": "nywbk",
+      "district_letter": "w",
+      "district_name": "Western",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "North Carolina": [
+    {
+      "code": "ncebk",
+      "district_letter": "e",
+      "district_name": "Eastern",
+      "ch7_2024": 18,
+      "ch13_2024": 6,
+      "ch11_2024": 55,
+      "ch12_2024": 0,
+      "ch7_2023": 14,
+      "ch13_2023": 7,
+      "ch13_stats_5yr": {
+        "filed": 79,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 56,
+        "discharged": 0
+      }
+    },
+    {
+      "code": "ncmbk",
+      "district_letter": "m",
+      "district_name": "Middle",
+      "ch7_2024": 11,
+      "ch13_2024": 5,
+      "ch11_2024": 5,
+      "ch12_2024": 0,
+      "ch7_2023": 6,
+      "ch13_2023": 7,
+      "ch13_stats_5yr": {
+        "filed": 42,
+        "dismissed": 4,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 28,
+        "discharged": 0
+      }
+    },
+    {
+      "code": "ncwbk",
+      "district_letter": "w",
+      "district_name": "Western",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "North Dakota": [
+    {
+      "code": "ndbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 3,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 3,
+        "discharged": 3
+      }
+    }
+  ],
+  "Ohio": [
+    {
+      "code": "ohnbk",
+      "district_letter": "n",
+      "district_name": "Northern",
+      "ch7_2024": 8,
+      "ch13_2024": 7,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 8,
+      "ch13_2023": 3,
+      "ch13_stats_5yr": {
+        "filed": 16,
+        "dismissed": 14,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 42,
+        "discharged": 40
+      }
+    },
+    {
+      "code": "ohsbk",
+      "district_letter": "s",
+      "district_name": "Southern",
+      "ch7_2024": 22,
+      "ch13_2024": 4,
+      "ch11_2024": 16,
+      "ch12_2024": 0,
+      "ch7_2023": 12,
+      "ch13_2023": 3,
+      "ch13_stats_5yr": {
+        "filed": 21,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 62,
+        "discharged": 0
+      }
+    }
+  ],
+  "Oklahoma": [
+    {
+      "code": "oknbk",
+      "district_letter": "n",
+      "district_name": "Northern",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    },
+    {
+      "code": "okwbk",
+      "district_letter": "w",
+      "district_name": "Western",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Oregon": [
+    {
+      "code": "orbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Pennsylvania": [
+    {
+      "code": "paebk",
+      "district_letter": "e",
+      "district_name": "Eastern",
+      "ch7_2024": 55,
+      "ch13_2024": 172,
+      "ch11_2024": 33,
+      "ch12_2024": 0,
+      "ch7_2023": 39,
+      "ch13_2023": 145,
+      "ch13_stats_5yr": {
+        "filed": 524,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 186,
+        "discharged": 0
+      }
+    },
+    {
+      "code": "pambk",
+      "district_letter": "m",
+      "district_name": "Middle",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    },
+    {
+      "code": "pawbk",
+      "district_letter": "w",
+      "district_name": "Western",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Rhode Island": [
+    {
+      "code": "ribk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "South Carolina": [
+    {
+      "code": "scbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 39,
+      "ch13_2024": 10,
+      "ch11_2024": 23,
+      "ch12_2024": 0,
+      "ch7_2023": 19,
+      "ch13_2023": 8,
+      "ch13_stats_5yr": {
+        "filed": 78,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 103,
+        "discharged": 0
+      }
+    }
+  ],
+  "South Dakota": [
+    {
+      "code": "sdbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Tennessee": [
+    {
+      "code": "tnebk",
+      "district_letter": "e",
+      "district_name": "Eastern",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    },
+    {
+      "code": "tnmbk",
+      "district_letter": "m",
+      "district_name": "Middle",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 2,
+        "discharged": 1
+      }
+    },
+    {
+      "code": "tnwbk",
+      "district_letter": "w",
+      "district_name": "Western",
+      "ch7_2024": 11,
+      "ch13_2024": 10,
+      "ch11_2024": 25,
+      "ch12_2024": 0,
+      "ch7_2023": 5,
+      "ch13_2023": 13,
+      "ch13_stats_5yr": {
+        "filed": 88,
+        "dismissed": 21,
+        "discharged": 2
+      },
+      "ch7_stats_5yr": {
+        "filed": 43,
+        "discharged": 16
+      }
+    }
+  ],
+  "Texas": [
+    {
+      "code": "txebk",
+      "district_letter": "e",
+      "district_name": "Eastern",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    },
+    {
+      "code": "txnbk",
+      "district_letter": "n",
+      "district_name": "Northern",
+      "ch7_2024": 92,
+      "ch13_2024": 55,
+      "ch11_2024": 67,
+      "ch12_2024": 0,
+      "ch7_2023": 34,
+      "ch13_2023": 10,
+      "ch13_stats_5yr": {
+        "filed": 115,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 156,
+        "discharged": 0
+      }
+    },
+    {
+      "code": "txsbk",
+      "district_letter": "s",
+      "district_name": "Southern",
+      "ch7_2024": 354,
+      "ch13_2024": 390,
+      "ch11_2024": 15,
+      "ch12_2024": 0,
+      "ch7_2023": 268,
+      "ch13_2023": 347,
+      "ch13_stats_5yr": {
+        "filed": 1483,
+        "dismissed": 704,
+        "discharged": 177
+      },
+      "ch7_stats_5yr": {
+        "filed": 1504,
+        "discharged": 1409
+      }
+    },
+    {
+      "code": "txwbk",
+      "district_letter": "w",
+      "district_name": "Western",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Utah": [
+    {
+      "code": "utbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Vermont": [
+    {
+      "code": "vtbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Virginia": [
+    {
+      "code": "vaebk",
+      "district_letter": "e",
+      "district_name": "Eastern",
+      "ch7_2024": 43,
+      "ch13_2024": 26,
+      "ch11_2024": 15,
+      "ch12_2024": 1,
+      "ch7_2023": 29,
+      "ch13_2023": 20,
+      "ch13_stats_5yr": {
+        "filed": 181,
+        "dismissed": 8,
+        "discharged": 8
+      },
+      "ch7_stats_5yr": {
+        "filed": 190,
+        "discharged": 1
+      }
+    },
+    {
+      "code": "vawbk",
+      "district_letter": "w",
+      "district_name": "Western",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Washington": [
+    {
+      "code": "waebk",
+      "district_letter": "e",
+      "district_name": "Eastern",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 1,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    },
+    {
+      "code": "wawbk",
+      "district_letter": "w",
+      "district_name": "Western",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "West Virginia": [
+    {
+      "code": "wvnbk",
+      "district_letter": "n",
+      "district_name": "Northern",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    },
+    {
+      "code": "wvsbk",
+      "district_letter": "s",
+      "district_name": "Southern",
+      "ch7_2024": 1,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 1,
+        "discharged": 0
+      }
+    }
+  ],
+  "Wisconsin": [
+    {
+      "code": "wiebk",
+      "district_letter": "e",
+      "district_name": "Eastern",
+      "ch7_2024": 9,
+      "ch13_2024": 2,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 4,
+        "dismissed": 1,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 12,
+        "discharged": 12
+      }
+    },
+    {
+      "code": "wiwbk",
+      "district_letter": "w",
+      "district_name": "Western",
+      "ch7_2024": 0,
+      "ch13_2024": 0,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 0,
+        "dismissed": 0,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 0,
+        "discharged": 0
+      }
+    }
+  ],
+  "Wyoming": [],
+  "District of Columbia": [
+    {
+      "code": "dcbk",
+      "district_letter": "",
+      "district_name": "",
+      "ch7_2024": 0,
+      "ch13_2024": 1,
+      "ch11_2024": 0,
+      "ch12_2024": 0,
+      "ch7_2023": 0,
+      "ch13_2023": 0,
+      "ch13_stats_5yr": {
+        "filed": 1,
+        "dismissed": 1,
+        "discharged": 0
+      },
+      "ch7_stats_5yr": {
+        "filed": 1,
+        "discharged": 0
+      }
+    }
+  ]
+}

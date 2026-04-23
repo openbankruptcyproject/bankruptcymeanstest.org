@@ -1,7 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bankruptcymeanstest.org/sitemapindex.xml
-Sitemap: https://bankruptcymeanstest.org/sitemap.xml
 
-Sitemap: https://bankruptcymeanstest.org/feed.xml
+
+Sitemap: https://bankruptcymeanstest.org/sitemapindex.xml

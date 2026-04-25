@@ -1,0 +1,895 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<title>Bankruptcy Means Test by State: 2026 Income Limits and Eligibility</title>
+<meta content="Pass the bankruptcy means test? Use our free calculator to check Chapter 7 eligibility based on your income and expenses. Updated for 2026 fi..." name="description"/>
+<link href="https://bankruptcymeanstest.org/" rel="canonical"/>
+<link href="https://bankruptcymeanstest.org/" hreflang="en" rel="alternate"/>
+<link href="https://bankruptcymeanstest.org/es.html" hreflang="es" rel="alternate"/>
+<meta content="Bankruptcy Means Test by State: 2026 Income Limits and Eligibility" property="og:title"/>
+<meta content="Pass the bankruptcy means test? Use our free calculator to check Chapter 7 eligibility based on your income and expenses. Updated for 2026 fi..." property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="https://bankruptcymeanstest.org/" property="og:url"/>
+<meta content="/og-image.svg" property="og:image"/>
+<meta content="bankruptcymeanstest.org" property="og:site_name"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Bankruptcy Means Test by State: 2026 Income Limits and Eligibility" name="twitter:title"/>
+<meta content="Pass the bankruptcy means test? Use our free calculator to check Chapter 7 eligibility based on your income and expenses. Updated for 2026 fi..." name="twitter:description"/>
+<meta content="/og-image.svg" name="twitter:image"/>
+<meta content="bankruptcy means test, means test by state, chapter 7 income limits, bankruptcy eligibility, median income bankruptcy, means test calculator" name="keywords"/>
+<!-- BTN:GA4:START -->
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
+<!-- BTN:GA4:END -->
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "WebPage", "name": "Bankruptcy Means Test by State: 2026 Income Limits and Eligibility", "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["h1", ".subtitle", ".faq-item h3", ".faq-item p"]}, "url": "https://bankruptcymeanstest.org/"}
+</script>
+<style>
+:root{--bg:#0d1117;--surface:#161b22;--surface-raised:#1c2129;--border:#30363d;--border-focus:#58a6ff;--text:#c9d1d9;--text-bright:#f0f6fc;--text-secondary:#8b949e;--accent:#58a6ff;--accent-hover:#79c0ff;--success:#3fb950;--success-bg:rgba(63,185,80,0.12);--success-border:rgba(63,185,80,0.4);--warning:#d29922;--warning-bg:rgba(210,153,34,0.12);--warning-border:rgba(210,153,34,0.4);--danger:#f85149;--danger-bg:rgba(248,81,73,0.1)}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;line-height:1.6;padding:0}
+.container{max-width:900px;margin:0 auto;padding:24px 16px}
+header{background:var(--surface);border-bottom:1px solid var(--border);padding:16px 24px;position:sticky;top:0;z-index:100}
+header a{color:var(--accent);text-decoration:none;font-size:0.95em}
+header a:hover{color:var(--accent-hover)}
+h1{color:var(--text-bright);font-size:2em;margin:24px 0 8px;line-height:1.2}
+h2{color:var(--text-bright);font-size:1.4em;margin:36px 0 12px;padding-bottom:8px;border-bottom:1px solid var(--border)}
+h3{color:var(--text);font-size:1.1em;margin:20px 0 8px}
+p{margin:0 0 16px;color:var(--text)}
+a{color:var(--accent)}
+a:hover{color:var(--accent-hover)}
+ul,ol{margin:0 0 16px 24px}
+li{margin:4px 0}
+.subtitle{color:var(--text-secondary);font-size:1.05em;margin-bottom:24px}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:24px;margin:16px 0}
+.disclaimer{background:var(--surface-raised);border:1px solid var(--border);border-radius:6px;padding:14px 18px;margin:20px 0;font-size:0.85em;color:var(--text-secondary);line-height:1.6}
+.disclaimer strong{color:var(--warning)}
+.info-section{margin-top:40px}
+.info-section h2{color:var(--text-bright)}
+.info-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:16px 0}
+.info-card{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:20px}
+.info-card h3{margin-top:0;color:var(--accent);font-size:1em}
+.info-card p{font-size:0.92em;margin-bottom:0}
+.faq-item{border-left:3px solid var(--accent);padding:16px 0 16px 20px;margin:16px 0}
+.faq-item h3{color:var(--accent);margin-top:0;font-size:1.05em}
+.faq-item p{font-size:0.93em;margin-bottom:0}
+.cta-card{background:linear-gradient(135deg,var(--surface),var(--surface-raised));border:1px solid var(--border);border-radius:10px;padding:28px;text-align:center;margin:32px 0}
+.cta-card h3{color:var(--text-bright);font-size:1.3em;margin-bottom:8px}
+.cta-card p{color:var(--text-secondary);margin-bottom:16px}
+.cta-card a{display:inline-block;padding:12px 28px;background:linear-gradient(135deg,#238636,#2ea043);color:#fff;border-radius:8px;text-decoration:none;font-weight:700;font-size:1em;margin:4px}
+.cta-card a:hover{background:linear-gradient(135deg,#2ea043,#3fb950)}
+.badge{display:inline-block;padding:4px 10px;border-radius:4px;font-size:0.82em;font-weight:600}
+.badge-yes{background:var(--success-bg);color:var(--success);border:1px solid var(--success-border)}
+.badge-no{background:var(--warning-bg);color:var(--warning);border:1px solid var(--warning-border)}
+footer{text-align:center;padding:32px 16px;color:var(--text-secondary);border-top:1px solid var(--border);margin-top:48px;font-size:0.9em}
+footer a{color:var(--accent)}
+/* Callout box */
+.callout{background:var(--success-bg);border:1px solid var(--success-border);border-radius:8px;padding:20px 24px;margin:24px 0;text-align:center}
+.callout .stat{font-size:2.2em;font-weight:800;color:var(--success);display:block;margin-bottom:4px}
+.callout p{color:var(--text);margin:0;font-size:1em}
+/* State grid */
+.state-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;margin:20px 0}
+.state-card{display:block;background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:12px 14px;text-decoration:none;color:var(--text-bright);font-weight:600;font-size:0.92em;transition:border-color 0.15s,background 0.15s}
+.state-card:hover{border-color:var(--accent);background:var(--surface-raised);color:var(--accent)}
+.state-card span{display:block;font-size:0.78em;font-weight:400;color:var(--text-secondary);margin-top:2px}
+/* Steps */
+.steps{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:20px 0}
+.step{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:20px}
+.step-num{display:inline-block;background:var(--accent);color:var(--bg);width:28px;height:28px;border-radius:50%;text-align:center;line-height:28px;font-weight:700;font-size:0.9em;margin-bottom:8px}
+.step h3{margin-top:0;color:var(--text-bright);font-size:1em}
+.step p{font-size:0.9em;margin-bottom:0}
+@media(max-width:768px){
+  h1{font-size:1.5em}
+  .info-grid,.steps{grid-template-columns:1fr}
+  .state-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr))}
+}
+@media(max-width:480px){
+  .state-grid{grid-template-columns:repeat(auto-fill,minmax(110px,1fr))}
+}
+
+  /* Skip navigation link (accessibility) */
+  .skip-link {
+    position: absolute;
+    top: -100%;
+    left: 0;
+    background: var(--accent, #58a6ff);
+    color: #000;
+    padding: 0.5rem 1.5rem;
+    z-index: 10000;
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-decoration: none;
+    border-radius: 0 0 6px 0;
+  }
+  .skip-link:focus {
+    top: 0;
+  }
+</style>
+<link href="/feed.xml" rel="alternate" title="bankruptcymeanstest.org Feed" type="application/atom+xml"/>
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<!-- aggressive-interlink:lang-en -->
+<div style="background:#161b22;border-bottom:1px solid #30363d;padding:8px 16px;text-align:center;font-size:0.85em"><a href="/es.html" style="color:#58a6ff;text-decoration:none">🌐 Esta pagina esta disponible en Espanol</a></div>
+<div class="obp-banner" style="background:#151b23;border-bottom:1px solid #252d38;padding:8px 16px;text-align:center;font-size:0.82rem;color:#7d8590;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+  Part of the <a href="https://openbankruptcyproject.org" style="color:#58a6ff;text-decoration:none;font-weight:600">Open Bankruptcy Project</a> - 161+ free domains, 115,000+ pages, $0 cost
+</div>
+<header>
+<a href="/">State Guides</a> | <a href="/calculator.html">Calculator</a> | <a href="/common-mistakes.html">Common Mistakes</a> | <a href="/faq.html">FAQ</a> | <a href="https://meanstest.org">Means Test Guide</a> | <a href="https://1328f.com">Discharge Screener</a>
+</header>
+<div class="container">
+<h1>Bankruptcy Means Test by State: 2026 Income Limits and Eligibility</h1>
+<!-- QUICK ANSWER (bounce reduction) -->
+<div class="quick-answer" style="background:#161b22;border-left:4px solid #3fb950;border-radius:0 8px 8px 0;padding:1rem 1.25rem;margin:1rem 0 1.5rem;max-width:800px">
+<p style="color:#e6edf3;font-weight:600;font-size:1rem;margin:0;line-height:1.6"><span style="color:#3fb950">Quick answer:</span> The <a href="https://meanstest.org/" title="means test">means test</a> compares your household income to your state's median. If you're below median, you likely qualify for <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>.</p>
+</div>
+<!-- /QUICK ANSWER -->
+<p class="subtitle">Every state has different median income thresholds. Find your state's limits, learn how the two-step <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> works, and check if you qualify for <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>.</p>
+<div class="callout">
+<span class="stat">~80%</span>
+<p>of Chapter 7 filers pass the <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a>. Most have income below their state's median and qualify automatically at Step 1.</p>
+</div>
+<div class="disclaimer">
+<strong>Important:</strong> This page provides educational information about the Chapter 7 <a href="https://meanstest.org/" title="means test">means test</a>. Median income data is approximate, based on Census Bureau / DOJ figures effective November 2025. Figures are updated every April and November. Verify current amounts at the <a href="https://www.justice.gov/ust/means-testing" rel="noopener" target="_blank">DOJ Means Testing page</a>. This is not legal advice.
+</div>
+<h2>What Is the Means Test?</h2>
+<p>The <strong>bankruptcy means test</strong> is a formula created by the Bankruptcy Abuse Prevention and Consumer Protection Act (<a href="https://1328f.com/glossary.html#bapcpa" title="BAPCPA">BAPCPA</a>) in 2005. It determines whether your income is low enough to qualify for <a href="https://whatischapter7.com">Chapter 7 bankruptcy</a>. The test is codified at <a href="https://www.law.cornell.edu/uscode/text/11/707" rel="noopener" target="_blank">11 U.S.C. Section 707(b)</a>.</p>
+<p>The test compares your <strong>current monthly income</strong> (CMI) - your average gross income over the 6 full calendar months before filing - to the <strong>median income</strong> for a household of your size in your state. Because median income varies significantly by state, where you live directly affects whether you pass or fail.</p>
+<h2>How the Two-Step Process Works</h2>
+<div class="steps">
+<div class="step">
+<span class="step-num">1</span>
+<h3>Income Comparison (Form 122A-1)</h3>
+<p>Calculate your annualized current monthly income (6-month average times 12) and compare it to the state median for your household size. If your income is <strong>at or below</strong> the median, you pass automatically. About 80% of filers stop here.</p>
+</div>
+<div class="step">
+<span class="step-num">2</span>
+<h3>Expense Deductions (Form 122A-2)</h3>
+<p>If your income is above the median, you complete the full calculation. Subtract allowable deductions - IRS living expense standards, actual secured debt payments, taxes, health insurance, childcare, and more. If your remaining disposable income is below the threshold ($9,075 over 60 months), you still pass.</p>
+</div>
+</div>
+<p>If you do not pass either step, there is a <strong>presumption of abuse</strong> under <a href="https://www.law.cornell.edu/uscode/text/11/707#b_0" rel="noopener" target="_blank">Section 707(b)</a>(2). You can try to rebut it with special circumstances, or you can file <a href="https://chapter13plan.org">Chapter 13 repayment plan guide</a> instead - <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> has no <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a>.</p>
+<h2>Why Your State Matters</h2>
+<p>Median income thresholds vary dramatically by state. For a single person, 2025-2026 medians range from roughly $50,000 in some states to over $90,000 in others. A family of four earning $80,000 might easily pass the <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> in a high-cost state like New Jersey but fail Step 1 in a lower-income state like Mississippi.</p>
+<p>Your state also determines which <a href="https://bankruptcyexemptionsbystate.com">bankruptcy exemptions</a> protect your property. Some states allow the federal exemption set; others require state-specific <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> only.</p>
+<div class="cta-card">
+<h3>Try the Means Test Calculator</h3>
+<p>Enter your state, household size, and income to get an instant result.</p>
+<a href="/calculator.html">Open Calculator</a>
+<a href="https://meanstest.org?utm_source=bankruptcymeanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="background:var(--surface);border:1px solid var(--border)">Full Means Test Guide</a>
+</div>
+<h2>Select Your State</h2>
+<p>Click your state to see the 2026 median income limits by household size, exemption rules, filing tips, and local bankruptcy districts.</p>
+<div class="state-grid">
+<a class="state-card" href="/alabama.html">Alabama<span>AL</span></a>
+<a class="state-card" href="/alaska.html">Alaska<span>AK</span></a>
+<a class="state-card" href="/arizona.html">Arizona<span>AZ</span></a>
+<a class="state-card" href="/arkansas.html">Arkansas<span>AR</span></a>
+<a class="state-card" href="/california.html">California<span>CA</span></a>
+<a class="state-card" href="/colorado.html">Colorado<span>CO</span></a>
+<a class="state-card" href="/connecticut.html">Connecticut<span>CT</span></a>
+<a class="state-card" href="/delaware.html">Delaware<span>DE</span></a>
+<a class="state-card" href="/district-of-columbia.html">District of Columbia<span>DC</span></a>
+<a class="state-card" href="/florida.html">Florida<span>FL</span></a>
+<a class="state-card" href="/georgia.html">Georgia<span>GA</span></a>
+<a class="state-card" href="/hawaii.html">Hawaii<span>HI</span></a>
+<a class="state-card" href="/idaho.html">Idaho<span>ID</span></a>
+<a class="state-card" href="/illinois.html">Illinois<span>IL</span></a>
+<a class="state-card" href="/indiana.html">Indiana<span>IN</span></a>
+<a class="state-card" href="/iowa.html">Iowa<span>IA</span></a>
+<a class="state-card" href="/kansas.html">Kansas<span>KS</span></a>
+<a class="state-card" href="/kentucky.html">Kentucky<span>KY</span></a>
+<a class="state-card" href="/louisiana.html">Louisiana<span>LA</span></a>
+<a class="state-card" href="/maine.html">Maine<span>ME</span></a>
+<a class="state-card" href="/maryland.html">Maryland<span>MD</span></a>
+<a class="state-card" href="/massachusetts.html">Massachusetts<span>MA</span></a>
+<a class="state-card" href="/michigan.html">Michigan<span>MI</span></a>
+<a class="state-card" href="/minnesota.html">Minnesota<span>MN</span></a>
+<a class="state-card" href="/mississippi.html">Mississippi<span>MS</span></a>
+<a class="state-card" href="/missouri.html">Missouri<span>MO</span></a>
+<a class="state-card" href="/montana.html">Montana<span>MT</span></a>
+<a class="state-card" href="/nebraska.html">Nebraska<span>NE</span></a>
+<a class="state-card" href="/nevada.html">Nevada<span>NV</span></a>
+<a class="state-card" href="/new-hampshire.html">New Hampshire<span>NH</span></a>
+<a class="state-card" href="/new-jersey.html">New Jersey<span>NJ</span></a>
+<a class="state-card" href="/new-mexico.html">New Mexico<span>NM</span></a>
+<a class="state-card" href="/new-york.html">New York<span>NY</span></a>
+<a class="state-card" href="/north-carolina.html">North Carolina<span>NC</span></a>
+<a class="state-card" href="/north-dakota.html">North Dakota<span>ND</span></a>
+<a class="state-card" href="/ohio.html">Ohio<span>OH</span></a>
+<a class="state-card" href="/oklahoma.html">Oklahoma<span>OK</span></a>
+<a class="state-card" href="/oregon.html">Oregon<span>OR</span></a>
+<a class="state-card" href="/pennsylvania.html">Pennsylvania<span>PA</span></a>
+<a class="state-card" href="/rhode-island.html">Rhode Island<span>RI</span></a>
+<a class="state-card" href="/south-carolina.html">South Carolina<span>SC</span></a>
+<a class="state-card" href="/south-dakota.html">South Dakota<span>SD</span></a>
+<a class="state-card" href="/tennessee.html">Tennessee<span>TN</span></a>
+<a class="state-card" href="/texas.html">Texas<span>TX</span></a>
+<a class="state-card" href="/utah.html">Utah<span>UT</span></a>
+<a class="state-card" href="/vermont.html">Vermont<span>VT</span></a>
+<a class="state-card" href="/virginia.html">Virginia<span>VA</span></a>
+<a class="state-card" href="/washington.html">Washington<span>WA</span></a>
+<a class="state-card" href="/west-virginia.html">West Virginia<span>WV</span></a>
+<a class="state-card" href="/wisconsin.html">Wisconsin<span>WI</span></a>
+<a class="state-card" href="/wyoming.html">Wyoming<span>WY</span></a>
+</div>
+<div class="info-section">
+<h2>Who Is Exempt from the Means Test?</h2>
+<p>The <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> only applies to <strong>individual debtors with primarily consumer debts</strong>. Several categories of filers are exempt:</p>
+<div class="info-grid">
+<div class="info-card">
+<h3>Business Debts</h3>
+<p>If more than half your debts are business debts (not consumer debts), the means test does not apply. Section 707(b) only covers cases where debts are "primarily consumer debts."</p>
+</div>
+<div class="info-card">
+<h3>Disabled Veterans</h3>
+<p>Under Section 707(b)(2)(D)(i), the means test does not apply to disabled veterans whose indebtedness occurred primarily during a period of active duty or homeland defense activity.</p>
+</div>
+<div class="info-card">
+<h3>Reservists &amp; National Guard</h3>
+<p>Under Section 707(b)(2)(D)(ii), members called to active duty for at least 90 days after September 11, 2001 are exempt if they file within the specified period after release.</p>
+</div>
+<div class="info-card">
+<h3>Below-Median Income</h3>
+<p>If your annualized income is at or below the state median for your household size, you pass Step 1 automatically. You still file Form 122A-1, but the full deduction calculation is not required.</p>
+</div>
+</div>
+</div>
+<div class="info-section">
+<h2>Key Income Factors by State</h2>
+<p>Several state-specific factors affect your means test outcome:</p>
+<ul>
+<li><strong>Median income level</strong> - Higher-median states (Connecticut, New Jersey, Maryland, Massachusetts) allow more income before triggering Step 2. Lower-median states (Mississippi, West Virginia, Arkansas) have tighter thresholds.</li>
+<li><strong>Cost of living</strong> - States with higher housing and transportation costs often see filers pass Step 2 even with above-median income, because allowed expense deductions are larger.</li>
+<li><strong>State vs. federal <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a></strong> - About two-thirds of states allow filers to choose between state and federal exemption sets. The rest require state exemptions only. This affects what property you can protect, not the income test itself, but it is a critical part of the filing decision.</li>
+<li><strong>Number of bankruptcy districts</strong> - Large states like California (4 districts), New York (4), and Texas (4) have multiple districts with different local rules and procedures.</li>
+<li><strong>IRS local standards</strong> - Housing and utility deductions in Step 2 are based on IRS local standards, which vary by county. Two filers with identical income in the same state but different counties may get different deduction amounts.</li>
+</ul>
+</div>
+<div class="info-section">
+<h2>Income That Counts - and Income That Does Not</h2>
+<p>The means test uses <strong>current monthly income</strong> (CMI), defined as average monthly gross income from all sources during the 6 full calendar months before filing. This includes:</p>
+<ul>
+<li>Wages, salary, tips, bonuses, overtime, commissions</li>
+<li>Net business income (gross revenue minus ordinary and necessary business expenses)</li>
+<li>Rental income, interest, dividends, royalties</li>
+<li>Pension and retirement income</li>
+<li>Contributions to household expenses from non-filing persons (including a non-filing spouse)</li>
+<li>Unemployment compensation, workers' compensation, disability payments</li>
+</ul>
+<p><strong>Excluded from CMI:</strong> Social Security benefits (retirement, disability, SSI, survivor benefits) are excluded by statute. This is one of the most commonly misunderstood rules - many filers assume Social Security disqualifies them when it does not count at all.</p>
+</div>
+<div class="cta-card">
+<h3>Not Sure Where to Start?</h3>
+<p>Read the complete means test walkthrough on our sister site.</p>
+<a href="https://meanstest.org/how-it-works.html?utm_source=bankruptcymeanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">How the Means Test Works</a>
+<a href="https://meanstest.org/deductions.html?utm_source=bankruptcymeanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="background:var(--surface);border:1px solid var(--border)">Allowed Deductions</a>
+</div>
+<div class="info-section">
+<h2>Common Mistakes to Avoid</h2>
+<p>The means test is mechanical, but errors are common. The most frequent mistakes include:</p>
+<ol>
+<li><strong>Wrong household size</strong> - Courts use different methods to count household members. Some circuits use Census-based definitions; others use an economic-unit test or IRS dependency rules. Getting this wrong shifts your entire threshold.</li>
+<li><strong>Including Social Security income</strong> - Social Security is excluded from CMI by statute, but many filers (and some software) include it anyway, creating a falsely inflated income figure.</li>
+<li><strong>Wrong 6-month window</strong> - The test uses the 6 full <em>calendar</em> months before filing. If you file on March 15, the window is September 1 through February 28 - not the last 180 days.</li>
+<li><strong>Missing deductions in Step 2</strong> - Filers who fail Step 1 often overlook deductible expenses: health insurance premiums, mandatory payroll deductions, education expenses for dependents, and court-ordered payments.</li>
+<li><strong>Using net pay instead of gross</strong> - CMI is based on gross income, not take-home pay. Taxes, insurance, and retirement contributions come off as deductions in Step 2, not in the income calculation.</li>
+</ol>
+<p>For a detailed breakdown, see our <a href="/common-mistakes.html">common mistakes guide</a>.</p>
+</div>
+<h2>Frequently Asked Questions</h2>
+<div class="faq-item">
+<h3>What is the bankruptcy means test?</h3>
+<p>The means test is a two-step formula under 11 U.S.C. Section 707(b) that determines whether you qualify for Chapter 7 bankruptcy. Step 1 compares your average income over the last 6 months to the median income for your household size in your state. If you are below the median, you pass. If above, Step 2 deducts allowed expenses to see if you have enough disposable income to repay a meaningful amount of debt. The test was created by <a href="https://1328f.com/glossary.html#bapcpa" title="BAPCPA">BAPCPA</a> in 2005.</p>
+</div>
+<div class="faq-item">
+<h3>Do income limits for the means test vary by state?</h3>
+<p>Yes. The means test uses state-specific median income figures published by the <a href="https://www.justice.gov/ust" rel="noopener" target="_blank">U.S. Trustee Program</a>, based on Census Bureau data. A single filer in Mississippi may have a median threshold around $50,000, while the same household size in Connecticut could exceed $80,000. The thresholds are updated twice per year, in April and November.</p>
+</div>
+<div class="faq-item">
+<h3>What happens if I fail the means test?</h3>
+<p>Failing creates a "presumption of abuse" under Section 707(b)(2). This does not automatically block your filing. You can rebut the presumption by demonstrating special circumstances - such as a serious medical condition, a call to active military duty, or other documented factors. If you cannot rebut it, your Chapter 7 case may be dismissed or converted. <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> is an alternative that has no income ceiling and allows debt repayment over 3 to 5 years.</p>
+</div>
+<div class="faq-item">
+<h3>Is Social Security income included in the means test?</h3>
+<p>No. Social Security benefits - including retirement, disability (SSDI), SSI, and survivor benefits - are excluded from the current monthly income calculation by statute. This is true regardless of the amount received. Many filers on fixed Social Security income pass the means test easily because their only income source is excluded.</p>
+</div>
+<div class="faq-item">
+<h3>Can I file Chapter 7 if I have a high income?</h3>
+<p>Possibly. Having above-median income only means you must complete Step 2 of the means test. Step 2 subtracts substantial deductions - IRS standard living expenses, actual mortgage and car payments, taxes, health insurance, childcare, and other allowed costs. Many above-median filers pass Step 2 because their disposable income after deductions falls below the threshold. About 12% of Chapter 7 filers have above-median income and still qualify.</p>
+</div>
+<div class="faq-item">
+<h3>How often do the income limits change?</h3>
+<p>The U.S. Trustee Program updates median income figures twice per year - typically in April and November. The figures are based on Census Bureau American Community Survey data. When new figures are published, they apply to all cases filed on or after the effective date. Always verify the current figures at the <a href="https://www.justice.gov/ust/means-testing" rel="noopener" target="_blank">DOJ Means Testing page</a> before filing.</p>
+</div>
+<div class="info-section">
+<h2>The Forms You Will File</h2>
+<p>The means test is completed on official bankruptcy forms filed with your petition:</p>
+<ul>
+<li><strong>Form 122A-1</strong> (Chapter 7 Statement of Your Current Monthly Income) - calculates your CMI and compares it to the state median. Every individual Chapter 7 filer completes this form.</li>
+<li><strong>Form 122A-2</strong> (Chapter 7 Means Test Calculation) - only required if you are above the median. Subtracts allowed deductions and determines whether a presumption of abuse arises.</li>
+<li><strong>Form 122A-1Supp</strong> (Statement of Exemption from Means Test) - filed instead of 122A-1 if you qualify for an exemption (disabled veteran, primarily business debts, etc.).</li>
+</ul>
+<p>Download the official forms at <a href="https://www.uscourts.gov/forms/bankruptcy-forms/chapter-7-means-test-calculation" rel="noopener" target="_blank">uscourts.gov</a>.</p>
+</div>
+<div class="info-section">
+<h2>Means Test vs. Chapter 13</h2>
+<p>The means test under Section 707(b) only applies to Chapter 7. There is no income ceiling for Chapter 13 - anyone who meets the <a href="https://109g.org">debt limits under Section 109</a> can file Chapter 13 regardless of income.</p>
+<p>However, income still matters in Chapter 13. If your income is above the state median, your <a href="https://chapter13plan.org">Chapter 13 plan</a> must run for 5 years rather than 3 years, and you must commit all projected disposable income to the plan. For a full comparison, see our <a href="https://chapter7vs13.org">Chapter 7 vs. Chapter 13 guide</a>.</p>
+</div>
+<div class="info-section">
+<h2>Timing Your Filing Strategically</h2>
+<p>Because the means test uses your average income over the <strong>6 full calendar months before filing</strong>, the timing of your petition can significantly affect whether you pass. Consider these scenarios:</p>
+<ul>
+<li><strong>Recent job loss or income reduction</strong> - If your income dropped recently, waiting until the high-earning months fall outside the 6-month window can lower your CMI enough to pass Step 1.</li>
+<li><strong>Seasonal income</strong> - Workers with seasonal peaks (construction, retail, agriculture) may benefit from filing during or shortly after their low-income season.</li>
+<li><strong>Large one-time payments</strong> - Bonuses, severance packages, insurance settlements, and tax refunds are included in CMI for the month received. If you received a large lump sum, waiting 6 months from the date of receipt can remove it from the calculation.</li>
+<li><strong>Overtime reduction</strong> - If you have been working significant overtime, reducing hours before the 6-month window begins can lower your average income.</li>
+<li><strong>Non-filing spouse income</strong> - A non-filing spouse's income is included in CMI on Form 122A-1. However, a "marital adjustment" on the same form allows you to subtract the spouse's income that is not regularly used for household expenses.</li>
+</ul>
+<p><strong>Caution:</strong> Strategic timing is legitimate, but intentionally manipulating income - quitting a job solely to pass the means test, hiding income, or delaying filing to run out the clock on a bonus - can raise red flags with the U.S. Trustee. The distinction is between planning around your genuine financial situation and fabricating one. Consult an attorney if you are unsure.</p>
+</div>
+<div class="info-section">
+<h2>State Income Groups: How States Compare</h2>
+<p>While exact figures change every April and November, states generally fall into three income tiers for means test purposes. These approximate ranges are for a single-person household:</p>
+<div class="info-grid">
+<div class="info-card">
+<h3>Higher Median States ($70K+)</h3>
+<p>Alaska, California, Colorado, Connecticut, Hawaii, Maryland, Massachusetts, Minnesota, New Hampshire, New Jersey, New York, Utah, Virginia, Washington, Wyoming. Filers in these states can earn more before triggering Step 2.</p>
+</div>
+<div class="info-card">
+<h3>Mid-Range States ($55K-$70K)</h3>
+<p>Arizona, Delaware, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Maine, Michigan, Missouri, Montana, Nebraska, Nevada, North Carolina, North Dakota, Ohio, Oregon, Pennsylvania, Rhode Island, South Dakota, Texas, Vermont, Wisconsin. Most states fall in this range.</p>
+</div>
+</div>
+<div style="margin-top:16px">
+<div class="info-card">
+<h3>Lower Median States (Under $55K)</h3>
+<p>Alabama, Arkansas, Kentucky, Louisiana, Mississippi, New Mexico, Oklahoma, South Carolina, Tennessee, West Virginia. Filers in these states face tighter thresholds at Step 1 but may have lower cost-of-living deductions available at Step 2.</p>
+</div>
+</div>
+<p style="margin-top:16px;font-size:0.88em;color:var(--text-secondary)">Note: These groupings are approximate and based on recent Census data. Actual thresholds depend on household size and the most recently published DOJ figures. Select your state above for current numbers.</p>
+</div>
+<div class="info-section">
+<h2>What Happens After You Pass</h2>
+<p>Passing the means test is necessary but not sufficient for a successful Chapter 7 case. After passing, you still must:</p>
+<ol>
+<li><strong>Complete <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a></strong> - You must receive a briefing from an approved <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a> agency within 180 days before filing. The agency will issue a certificate that you file with your petition.</li>
+<li><strong>File your petition and schedules</strong> - The petition includes detailed schedules of all assets, liabilities, income, expenses, executory contracts, and a statement of financial affairs. Accuracy matters - omissions can result in denial of <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</li>
+<li><strong>Attend the <a href="https://341meeting.org/" title="341 meeting">341 meeting</a></strong> - About 30-45 days after filing, you attend a <a href="https://341meeting.org">meeting of creditors</a> where the trustee and any creditors can ask questions under oath.</li>
+<li><strong>Complete debtor education</strong> - After filing, you must complete a financial management course from an approved provider before receiving your <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</li>
+<li><strong>Wait for discharge</strong> - In a typical no-asset Chapter 7 case, discharge enters approximately 60-90 days after the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a>, assuming no objections.</li>
+</ol>
+<p>For a full walkthrough, see <a href="https://howtofilebankruptcy.org">How to File Bankruptcy</a>.</p>
+</div>
+<div class="info-section">
+<h2>Prior Filing Restrictions</h2>
+<p>Even if you pass the means test, you may be barred from receiving a Chapter 7 discharge if you received a prior discharge too recently. Under <a href="https://727a8.com">11 U.S.C. Section 727(a)(8)</a>, you cannot receive a Chapter 7 discharge if you received a Chapter 7 or <a href="https://section1191.org/" title="Chapter 11">Chapter 11</a> discharge in a case filed within the preceding 8 years. Under <a href="https://1328f.com">Section 1328(f)</a>, a prior Chapter 13 discharge within 6 years can also block a Chapter 7 discharge, with exceptions.</p>
+<p>Use the <a href="https://1328f.com">free discharge screener</a> to check your eligibility based on prior filing history.</p>
+</div>
+<div class="info-section">
+<h2>Means Test for Self-Employed Filers</h2>
+<p>Self-employed debtors face additional complexity. The means test uses <strong>net business income</strong> - gross revenue minus ordinary and necessary business expenses - not gross receipts. Key considerations:</p>
+<ul>
+<li><strong>Business expenses reduce CMI</strong> - Legitimate business costs (rent, supplies, payroll, insurance, vehicle expenses) are subtracted from gross revenue before CMI is calculated. This can significantly reduce your income figure.</li>
+<li><strong>The 6-month lookback applies</strong> - Your business income is averaged over the same 6-month window as wage income. Seasonal businesses with uneven revenue should consider timing carefully.</li>
+<li><strong>Separate business debt</strong> - If more than 50% of your total debt is business debt (not consumer debt), you may be exempt from the means test entirely under Section 707(b). This exemption applies to sole proprietors, not just corporations or LLCs.</li>
+<li><strong>Avoid the double-count trap</strong> - Some expenses (like a home office or vehicle used for both personal and business purposes) can be deducted as business expenses in the CMI calculation <em>or</em> as personal deductions in Step 2, but not both. Claiming the same expense twice can trigger a U.S. Trustee objection.</li>
+<li><strong>Documentation is critical</strong> - Self-employed filers should have detailed profit-and-loss statements, bank records, and tax returns ready. The trustee will scrutinize business income more closely than W-2 wages.</li>
+</ul>
+<p>For a full guide, see <a href="https://meanstest.org/business-income.html">Self-Employed Means Test</a> on our sister site.</p>
+</div>
+<div class="info-section">
+<h2>Household Size: Who Counts?</h2>
+<p>Your household size determines which median income figure you are compared against - and getting it wrong shifts your entire threshold. Unfortunately, the Bankruptcy Code does not define "household size," and courts have adopted three different approaches:</p>
+<ul>
+<li><strong>Census Bureau definition</strong> - Everyone living under your roof, regardless of relationship or financial contribution. This tends to produce the largest household size.</li>
+<li><strong>IRS dependency test</strong> - Only people you could claim as dependents on your tax return. This tends to produce the smallest household size.</li>
+<li><strong>"Economic unit" test</strong> - People whose finances are intertwined with yours, sharing income and expenses as a single economic unit. This is the most flexible standard.</li>
+</ul>
+<p>Which method applies depends on your circuit. Check your state's page for guidance on the local approach, or see our detailed <a href="https://meanstest.org/household-size.html">household size guide</a>.</p>
+</div>
+<div class="cta-card">
+<h3>Explore More Bankruptcy Resources</h3>
+<p>Free tools and guides from the Open Bankruptcy Project.</p>
+<a href="/calculator.html">Means Test Calculator</a>
+<a href="https://bankruptcyexemptionsbystate.com?utm_source=bankruptcymeanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="background:var(--surface);border:1px solid var(--border)">Exemptions by State</a>
+</div>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+<p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on the bankruptcy means test:</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/707" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 707(b)</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - means test statute</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.census.gov/topics/income-poverty/income.html" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Census Median Income Data</a><br/><span style="color:#7d8590;font-size:0.8rem">Income thresholds</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/forms/bankruptcy-forms/chapter-7-means-test-calculation" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Means Test Form (B 122A)</a><br/><span style="color:#7d8590;font-size:0.8rem">Official form</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.justice.gov/ust/means-testing" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">U.S. Trustee Means Test Data</a><br/><span style="color:#7d8590;font-size:0.8rem">DOJ income multipliers</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.consumerfinance.gov/ask-cfpb/what-is-chapter-7-bankruptcy-en-1947/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">CFPB: Chapter 7 Eligibility</a><br/><span style="color:#7d8590;font-size:0.8rem">Consumer guide</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Find Free Legal Aid</a><br/><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://scholar.google.com/scholar?q=%22means+test%22+%22707%28b%29%22+bankruptcy" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Means Test Research</a><br/><span style="color:#7d8590;font-size:0.8rem">Google Scholar</span></li>
+</ul>
+</div>
+<div style="max-width:820px;margin:2rem auto;padding:0 1.5rem">
+<h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Topics</h2>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.75rem">
+<a href="https://meanstest.org" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Means Test Guide</a>
+<a href="https://whatischapter7.com" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">What Is Chapter 7?</a>
+<a href="https://chapter7vs13.org" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Chapter 7 vs. Chapter 13</a>
+<a href="https://howtofilebankruptcy.org" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">How to File Bankruptcy</a>
+<a href="https://howmuchdoesbankruptcycost.com" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">How Much Does Bankruptcy Cost?</a>
+<a href="https://bankruptcyexemptionsbystate.com" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Exemptions by State</a>
+</div>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
+<p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin-bottom:1rem">No spam. No marketing. Just data.</p>
+<form action="https://formspree.io/f/xkoqeyzw" method="POST" style="display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap">
+<input aria-label="your@email.com" name="email" placeholder="your@email.com" required="" style="padding:0.5rem 1rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:250px" type="email"/>
+<input name="_subject" type="hidden" value="BTN Research Subscriber"/>
+<button style="padding:0.5rem 1.5rem;border-radius:6px;border:none;background:#238636;color:#fff;font-weight:600;font-size:0.9rem;cursor:pointer" type="submit">Subscribe</button>
+</form>
+</div>
+<!-- RECAP Counter -->
+<div style="text-align:center;margin:1.5rem auto;max-width:600px">
+<a href="https://openbankruptcyproject.org/recap.html" style="display:inline-block;background:#0d1117;border:1px solid #238636;color:#3fb950;padding:0.6rem 1.5rem;border-radius:6px;font-weight:700;font-size:0.95rem;text-decoration:none;letter-spacing:-0.01em">462+ Court Documents Freed from PACER</a>
+<p style="color:#7d8590;font-size:0.78rem;margin-top:0.4rem">We buy federal court records and donate them to RECAP so no one has to pay. <a href="https://openbankruptcyproject.org/recap.html" style="color:#58a6ff;text-decoration:none">Browse the archive →</a></p>
+</div>
+<!-- Transparency Counter -->
+<div style="text-align:center;margin:0.5rem auto 1.5rem;max-width:600px">
+<p style="color:#7d8590;font-size:0.8rem;margin:0;letter-spacing:0.02em"><strong style="color:#e6edf3">$16,500+ spent</strong> · <strong style="color:#e6edf3">$0 donated</strong> · <strong style="color:#e6edf3">$0 hosting</strong> · 105 domains · 2,000+ pages · All free, forever.</p>
+</div>
+<div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:1.5rem auto">
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> access fees and bankruptcy court transparency research.</p>
+<a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
+<p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem"><a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">91</span> of 37.9 million</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
+<div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div id="recap-bar" style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
+<p style="margin-bottom:0.25rem"><span id="recap-donated" style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
+<p style="color:#9eaab6;font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing.</p>
+<a href="https://1328f.org/support/" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Sponsor this research</a>
+</div>
+<!-- RELATED GUIDES - injected by inject_related_guides.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+<a class="related-card" href="https://meanstest.org?utm_source=bankruptcymeanstest.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Bankruptcy Means Test Guide</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Find out if you qualify for Chapter 7</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">meanstest.org →</p>
+</a>
+<a class="related-card" href="https://727a8.com?utm_source=bankruptcymeanstest.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 Discharge Time Bar Guide</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Complete guide to the 8-year Chapter 7 discharge bar</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">727a8.com →</p>
+</a>
+<a class="related-card" href="https://727a8.org?utm_source=bankruptcymeanstest.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Section 727(a)(8) Research Hub</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Case law and circuit analysis for Section 727(a)(8)</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">727a8.org →</p>
+</a>
+<a class="related-card" href="https://bankruptcydenied.com?utm_source=bankruptcymeanstest.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">When Bankruptcy Is Denied</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Why bankruptcy cases get denied</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcydenied.com →</p>
+</a>
+</div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+</style>
+<!-- USER JOURNEY CROSS-LINKS (data-driven funnel) -->
+<div style="max-width:900px;margin:1.5rem auto;padding:0 1rem">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.1rem;margin:0 0 0.5rem 0;text-align:center">Your Next Questions</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0;text-align:center">Real users ask these next - we built the answers.</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+<a class="related-card" href="https://chapter7vs13.org?utm_source=bankruptcymeanstest.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 vs Chapter 13</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Compare chapters before you file</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">chapter7vs13.org →</p>
+</a>
+<a class="related-card" href="https://keepmycarinbankruptcy.com?utm_source=bankruptcymeanstest.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Can I Keep My Car?</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">What happens to your vehicle in bankruptcy</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">keepmycarinbankruptcy.com →</p>
+</a>
+<a class="related-card" href="https://keepmyhouseinbankruptcy.com?utm_source=bankruptcymeanstest.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Can I Keep My House?</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Homestead exemptions and mortgage options</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">keepmyhouseinbankruptcy.com →</p>
+</a>
+<a class="related-card" href="https://bankruptcymill.org?utm_source=bankruptcymeanstest.org&amp;utm_medium=user-journey&amp;utm_campaign=btn-funnel" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">What Is a Bankruptcy Mill?</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">How to avoid high-volume, low-quality firms</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcymill.org →</p>
+</a>
+</div>
+</div>
+<!-- /USER JOURNEY -->
+<!-- /RELATED GUIDES -->
+<!-- STATE GUIDES CROSS-LINK (injected by inject_state_links.py 2026-04-01) -->
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.25rem 1.5rem;max-width:700px;margin:2rem auto;text-align:center">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.5rem">State Bankruptcy Guides</p>
+<p style="color:#9eaab6;font-size:0.88rem;margin:0 0 0.75rem">Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.</p>
+<p style="margin:0 0 0.75rem;font-size:0.85rem;line-height:1.8"><a href="https://bankruptcyexemptionsbystate.com/states/california.html" style="color:#58a6ff;white-space:nowrap">California</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/texas.html" style="color:#58a6ff;white-space:nowrap">Texas</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/florida.html" style="color:#58a6ff;white-space:nowrap">Florida</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/new-york.html" style="color:#58a6ff;white-space:nowrap">New York</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/illinois.html" style="color:#58a6ff;white-space:nowrap">Illinois</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/ohio.html" style="color:#58a6ff;white-space:nowrap">Ohio</a></p>
+<a href="https://bankruptcyexemptionsbystate.com/states/" style="display:inline-block;background:#238636;color:#fff;padding:0.45rem 1.25rem;border-radius:6px;font-weight:600;font-size:0.88rem;text-decoration:none">Browse All 50 State Guides →</a>
+</div>
+<!-- /STATE GUIDES CROSS-LINK -->
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+<ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+<li><a href="https://727a8.org" style="color:#58a6ff;text-decoration:none">Chapter 7 Filing Bar Rules</a></li>
+<li><a href="https://whatischapter7.org" style="color:#58a6ff;text-decoration:none">Chapter 7 Bankruptcy Guide</a></li>
+</ul>
+</div>
+<!-- aggressive-interlink:glossary -->
+<div style="text-align:center;padding:0.75rem 0;margin-top:1rem"><a href="https://whathappensinbankruptcy.com/glossary/" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">📖 Bankruptcy Glossary</a> <span style="color:#7d8590;font-size:0.85rem">-- 61 terms explained</span></div>
+<!-- GEO CARD (timezone-based state suggestion) -->
+<div id="geo-card" style="display:none;max-width:700px;margin:1.5rem auto;padding:0 1rem">
+<div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-align:center">
+<p id="geo-heading" style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.5rem">Filing in Your State?</p>
+<p style="color:#9eaab6;font-size:0.88rem;margin:0 0 0.75rem">Exemptions vary dramatically by state. Check what you can protect.</p>
+<a href="https://bankruptcyexemptionsbystate.com/states/?utm_source=bankruptcymeanstest.org&amp;utm_medium=geo-card&amp;utm_campaign=btn-funnel" id="geo-link" style="display:inline-block;background:#238636;color:#fff;padding:0.45rem 1.25rem;border-radius:6px;font-weight:600;font-size:0.88rem;text-decoration:none">Browse Your State's Exemptions →</a>
+</div>
+</div>
+<script>
+(function(){
+  try {
+    var tz = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+    var map = {
+      'America/New_York': {s:'new-york',n:'New York'},
+      'America/Chicago': {s:'illinois',n:'Illinois'},
+      'America/Denver': {s:'colorado',n:'Colorado'},
+      'America/Los_Angeles': {s:'california',n:'California'},
+      'America/Phoenix': {s:'arizona',n:'Arizona'},
+      'America/Anchorage': {s:'alaska',n:'Alaska'},
+      'Pacific/Honolulu': {s:'hawaii',n:'Hawaii'},
+      'America/Indiana/Indianapolis': {s:'indiana',n:'Indiana'},
+      'America/Detroit': {s:'michigan',n:'Michigan'},
+      'America/Kentucky/Louisville': {s:'kentucky',n:'Kentucky'},
+      'America/Boise': {s:'idaho',n:'Idaho'}
+    };
+    var info = map[tz];
+    if (!info) {
+      if (tz.indexOf('America/New_York') !== -1 || tz.indexOf('Eastern') !== -1) info = map['America/New_York'];
+      else if (tz.indexOf('America/Chicago') !== -1 || tz.indexOf('Central') !== -1) info = map['America/Chicago'];
+      else if (tz.indexOf('America/Denver') !== -1 || tz.indexOf('Mountain') !== -1) info = map['America/Denver'];
+      else if (tz.indexOf('America/Los_Angeles') !== -1 || tz.indexOf('Pacific') !== -1) info = map['America/Los_Angeles'];
+    }
+    if (info) {
+      var src = 'bankruptcymeanstest.org';
+      document.getElementById('geo-heading').textContent = 'Filing in ' + info.n + '?';
+      document.getElementById('geo-link').href = 'https://bankruptcyexemptionsbystate.com/states/' + info.s + '.html?utm_source=' + src + '&utm_medium=geo-card&utm_campaign=btn-funnel';
+      document.getElementById('geo-link').textContent = info.n + ' Bankruptcy Exemptions \u2192';
+    }
+    document.getElementById('geo-card').style.display = 'block';
+  } catch(e) {}
+})();
+</script>
+<!-- /GEO CARD -->
+<!-- BTN:FOOTER:START -->
+<footer>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+
+Part of the <a href="https://1328f.org?utm_source=bankruptcymeanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Open Bankruptcy Project</a> | Free information, no strings.<br/>
+<span style="font-size:0.85em;color:var(--text-secondary)">
+<a href="https://automaticstay.org?utm_source=bankruptcymeanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Automatic Stay</a> ·
+<a href="https://341meeting.org?utm_source=bankruptcymeanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">341 Meeting</a> ·
+<a href="https://523a.org?utm_source=bankruptcymeanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">523(a) Exceptions</a> ·
+<a href="https://727a8.com?utm_source=bankruptcymeanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">727(a)(8)</a> ·
+<a href="https://chapter7vs13.org?utm_source=bankruptcymeanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Ch 7 vs 13</a> ·
+<a href="https://howtofilebankruptcy.org?utm_source=bankruptcymeanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">How to File</a> ·
+<a href="https://howmuchdoesbankruptcycost.com?utm_source=bankruptcymeanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Cost Guide</a> ·
+<a href="https://meanstest.org?utm_source=bankruptcymeanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Means Test</a>
+</span>
+<p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=bankruptcymeanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=bankruptcymeanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=bankruptcymeanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" rel="noopener" style="color:#58a6ff" target="_blank">Suggestion 26-BK-3</a></p>
+</div>
+</footer>
+<!-- BTN:FOOTER:END -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the bankruptcy means test?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The means test is a two-step formula under 11 U.S.C. Section 707(b) that determines whether you qualify for Chapter 7 bankruptcy. Step 1 compares your average income over the last 6 months to the median income for your household size in your state. If you are below the median, you pass. If above, Step 2 deducts allowed expenses to see if you have enough disposable income to repay a meaningful amount of debt. The test was created by BAPCPA in 2005."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do income limits for the means test vary by state?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The means test uses state-specific median income figures published by the U.S. Trustee Program, based on Census Bureau data. A single filer in Mississippi may have a median threshold around $50,000, while the same household size in Connecticut could exceed $80,000. The thresholds are updated twice per year, in April and November."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens if I fail the means test?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Failing creates a presumption of abuse under Section 707(b)(2). This does not automatically block your filing. You can rebut the presumption by demonstrating special circumstances - such as a serious medical condition, a call to active military duty, or other documented factors. If you cannot rebut it, your Chapter 7 case may be dismissed or converted. Chapter 13 is an alternative that has no income ceiling and allows debt repayment over 3 to 5 years."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Social Security income included in the means test?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Social Security benefits - including retirement, disability (SSDI), SSI, and survivor benefits - are excluded from the current monthly income calculation by statute. This is true regardless of the amount received. Many filers on fixed Social Security income pass the means test easily because their only income source is excluded."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I file Chapter 7 if I have a high income?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Possibly. Having above-median income only means you must complete Step 2 of the means test. Step 2 subtracts substantial deductions - IRS standard living expenses, actual mortgage and car payments, taxes, health insurance, childcare, and other allowed costs. Many above-median filers pass Step 2 because their disposable income after deductions falls below the threshold. About 12% of Chapter 7 filers have above-median income and still qualify."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often do the income limits change?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The U.S. Trustee Program updates median income figures twice per year - typically in April and November. The figures are based on Census Bureau American Community Survey data. When new figures are published, they apply to all cases filed on or after the effective date. Always verify the current figures at the DOJ Means Testing page before filing."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bankruptcymeanstest.org" },
+        { "@type": "ListItem", "position": 2, "name": "Means Test by State", "item": "https://bankruptcymeanstest.org" }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "name": "bankruptcymeanstest.org",
+      "url": "https://bankruptcymeanstest.org/",
+      "description": "State-by-state guide to the Chapter 7 bankruptcy means test. 2026 median income limits, eligibility rules, and free calculator.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project",
+        "url": "https://1328f.org"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "SiteNavigationElement",
+      "name": "BTN Network",
+      "url": [
+        "https://1328f.com",
+        "https://1328f.org",
+        "https://automaticstay.org",
+        "https://341meeting.org",
+        "https://523a.org",
+        "https://109g.org",
+        "https://727a8.com",
+        "https://meanstest.org",
+        "https://bankruptcymeanstest.org",
+        "https://chapter7vs13.org",
+        "https://howtofilebankruptcy.org"
+      ]
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Bankruptcy Means Test by State: 2026 Income Limits and Eligibility",
+      "description": "Pass the bankruptcy means test? Use our free calculator to check Chapter 7 eligibility based on your income and expenses. Updated for 2026 figures.",
+      "author": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project",
+        "url": "https://1328f.org"
+      },
+      "datePublished": "2026-04-05",
+      "dateModified": "2026-04-05",
+      "mainEntityOfPage": "https://bankruptcymeanstest.org/"
+    },
+    {
+      "@type": "HowTo",
+      "name": "Bankruptcy Means Test by State: 2026 Income Limits and Eligibility",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "Bankruptcy Means Test by State: 2026 Income Limits and Eligibility\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwindow.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Cost of living - States with higher housing and transportation costs often see filers pass Step 2 even with above-median income, because allowed expense deductions are larger."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "State vs. federal exemptions - About two-thirds of states allow filers to choose between state and federal exemption sets. The rest require state exemptions only. This affects what property you can p"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Number of bankruptcy districts - Large states like California (4 districts), New York (4), and Texas (4) have multiple districts with different local rules and procedures."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "IRS local standards - Housing and utility deductions in Step 2 are based on IRS local standards, which vary by county. Two filers with identical income in the same state but different counties may ge"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "text": "Wages, salary, tips, bonuses, overtime, commissions"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "text": "Net business income (gross revenue minus ordinary and necessary business expenses)"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "text": "Rental income, interest, dividends, royalties"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 9,
+          "text": "Pension and retirement income"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 10,
+          "text": "Contributions to household expenses from non-filing persons (including a non-filing spouse)"
+        }
+      ]
+    }
+  ]
+}
+</script>
+<script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
+<script defer="" src="/btn-engage.js"></script>
+<!-- PAA SECTION (build_paa_pages.py) -->
+<div style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#111;border:1px solid #333;border-radius:8px">
+<p style="color:#fff;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">People Also Ask</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:8px"><a href="/paa/what-is-the-means-test-for-bankruptcy.html" style="color:#60a5fa;font-size:14px;text-decoration:none">What is the means test for bankruptcy?</a></li>
+<li style="margin-bottom:8px"><a href="/paa/can-i-take-the-means-test-online.html" style="color:#60a5fa;font-size:14px;text-decoration:none">Can I take the means test online?</a></li>
+<li style="margin-bottom:8px"><a href="/paa/what-expenses-can-i-deduct-on-the-means-test.html" style="color:#60a5fa;font-size:14px;text-decoration:none">What expenses can I deduct on the means test?</a></li>
+</ul>
+<p style="margin-top:12px"><a href="/paa/" style="color:#888;font-size:13px">View all questions →</a></p>
+</div>
+<!-- /PAA SECTION -->
+<!-- OBP Contact Form - deployed by deploy_btn_contact_form.py -->
+<div id="obp-help-form" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.5rem;margin:2rem auto;max-width:600px">
+<h3 style="color:#c9d1d9;margin-top:0;margin-bottom:0.5rem">Have a Question?</h3>
+<p style="color:#8b949e;font-size:0.85rem;margin-bottom:1rem">
+    Open Bankruptcy Project provides free educational information. We are not a law firm.
+    Nothing on this site constitutes legal advice. For advice about your specific situation,
+    consult a licensed attorney.
+  </p>
+<form id="obp-help-submit" style="margin:0">
+<input name="source" type="hidden" value="bankruptcymeanstest.org"/>
+<input name="topic" type="hidden" value="Site Question"/>
+<input aria-label="Name (optional)" name="name" placeholder="Name (optional)" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem" type="text"/>
+<input aria-label="Email" name="email" placeholder="Email" required="" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem" type="email"/>
+<select name="state" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem;appearance:auto">
+<option value="">Select your state...</option>
+<option value="AL">Alabama</option>
+<option value="AK">Alaska</option>
+<option value="AZ">Arizona</option>
+<option value="AR">Arkansas</option>
+<option value="CA">California</option>
+<option value="CO">Colorado</option>
+<option value="CT">Connecticut</option>
+<option value="DE">Delaware</option>
+<option value="DC">District of Columbia</option>
+<option value="FL">Florida</option>
+<option value="GA">Georgia</option>
+<option value="HI">Hawaii</option>
+<option value="ID">Idaho</option>
+<option value="IL">Illinois</option>
+<option value="IN">Indiana</option>
+<option value="IA">Iowa</option>
+<option value="KS">Kansas</option>
+<option value="KY">Kentucky</option>
+<option value="LA">Louisiana</option>
+<option value="ME">Maine</option>
+<option value="MD">Maryland</option>
+<option value="MA">Massachusetts</option>
+<option value="MI">Michigan</option>
+<option value="MN">Minnesota</option>
+<option value="MS">Mississippi</option>
+<option value="MO">Missouri</option>
+<option value="MT">Montana</option>
+<option value="NE">Nebraska</option>
+<option value="NV">Nevada</option>
+<option value="NH">New Hampshire</option>
+<option value="NJ">New Jersey</option>
+<option value="NM">New Mexico</option>
+<option value="NY">New York</option>
+<option value="NC">North Carolina</option>
+<option value="ND">North Dakota</option>
+<option value="OH">Ohio</option>
+<option value="OK">Oklahoma</option>
+<option value="OR">Oregon</option>
+<option value="PA">Pennsylvania</option>
+<option value="RI">Rhode Island</option>
+<option value="SC">South Carolina</option>
+<option value="SD">South Dakota</option>
+<option value="TN">Tennessee</option>
+<option value="TX">Texas</option>
+<option value="UT">Utah</option>
+<option value="VT">Vermont</option>
+<option value="VA">Virginia</option>
+<option value="WA">Washington</option>
+<option value="WV">West Virginia</option>
+<option value="WI">Wisconsin</option>
+<option value="WY">Wyoming</option>
+<option value="AS">American Samoa</option>
+<option value="GU">Guam</option>
+<option value="MP">Northern Mariana Islands</option>
+<option value="PR">Puerto Rico</option>
+<option value="VI">U.S. Virgin Islands</option>
+</select>
+<textarea name="message" placeholder="Your question..." required="" rows="4" style="width:100%;padding:0.6rem 0.75rem;background:#0d1117;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:0.9rem;font-family:inherit;box-sizing:border-box;margin-bottom:0.75rem;resize:vertical"></textarea>
+<label style="color:#8b949e;font-size:0.8rem;display:flex;align-items:start;gap:0.5rem;margin:0.5rem 0 1rem;cursor:pointer">
+<input aria-label="checkbox" required="" style="margin-top:2px;accent-color:#bf3989" type="checkbox"/>
+      I understand this is educational information, not legal advice.
+    </label>
+<button onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="background:#bf3989;color:#fff;border:none;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;cursor:pointer;transition:background 0.2s" type="submit">Submit Question</button>
+</form>
+<p id="obp-help-thanks" style="display:none;color:#3fb950;font-weight:600;margin:1rem 0 0">Thank you! We typically respond within one business day.</p>
+<script>
+  document.getElementById('obp-help-submit').addEventListener('submit',function(e){
+    e.preventDefault();var f=this,b=f.querySelector('button[type=submit]');
+    b.disabled=true;b.textContent='Sending...';
+    var d={name:f.querySelector('[name=name]').value,email:f.querySelector('[name=email]').value,
+      state:f.querySelector('[name=state]').value,
+      message:f.querySelector('[name=message]').value,
+      topic:'Site Question ('+f.querySelector('[name=source]').value+')'};
+    fetch('https://script.google.com/macros/s/AKfycbwSILiwrhpiognHpMEws-j7Yc-aySqk3vDkCXFmNe-hA-tHrzGC6qid7f6ZqBy3n9sqiQ/exec',{method:'POST',body:JSON.stringify(d)})
+    .then(function(){f.style.display='none';document.getElementById('obp-help-thanks').style.display='block'})
+    .catch(function(){f.style.display='none';document.getElementById('obp-help-thanks').style.display='block'});
+  });
+  </script>
+</div>
+<!-- /OBP Contact Form -->
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=bankruptcymeanstest.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://meanstest.org/?utm_source=bankruptcymeanstest.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Free Means Test Calculator</a> <span style="color:#7d8590;font-size:0.8rem">-- meanstest.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=bankruptcymeanstest.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+</ul>
+</div>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>

@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<!-- BTN:GA4:START -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>Preguntas Frecuentes sobre la Prueba de Medios de Bancarrota</title>
+<meta name="description" content="Preguntas comunes sobre la prueba de medios de bancarrota, limites de ingresos y como calificar para Capitulo 7.">
+<meta name="keywords" content="bankruptcy means test, Chapter 7 income limit, means test calculator, qualify for Chapter 7">
+<link rel="canonical" href="https://bankruptcymeanstest.org/frequently-asked-questions-es.html">
+<link rel="alternate" hreflang="es" href="https://bankruptcymeanstest.org/frequently-asked-questions-es.html">
+<link rel="alternate" hreflang="en" href="https://bankruptcymeanstest.org/frequently-asked-questions.html">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Preguntas Frecuentes sobre la Prueba de Medios de Bancarrota">
+<meta property="og:description" content="Preguntas comunes sobre la prueba de medios de bancarrota, limites de ingresos y como calificar para Capitulo 7.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://bankruptcymeanstest.org/frequently-asked-questions-es.html">
+<meta property="og:site_name" content="bankruptcymeanstest.org">
+<meta property="og:image" content="/og-image.svg">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Preguntas Frecuentes sobre la Prueba de Medios de Bancarrota">
+<meta name="twitter:description" content="Preguntas comunes sobre la prueba de medios de bancarrota, limites de ingresos y como calificar para Capitulo 7.">
+<meta name="twitter:image" content="/og-image.svg">
+
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#0d1117">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Que es la prueba de medios de bancarrota?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La prueba de medios es un calculo de dos partes que determina si califica para el Capitulo 7. Primero compara su ingreso familiar con el ingreso medio de su estado. Si esta por debajo, pasa automaticamente."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que ingresos se incluyen en la prueba de medios?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La prueba de medios usa su ingreso mensual promedio de los 6 meses antes de presentar, incluyendo salarios, propinas, bonos, ingresos de negocio, alquiler, pension y discapacidad. El ingreso del Seguro Social se excluye."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cual es el limite de ingresos para Capitulo 7 en mi estado?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El limite de ingresos varia por estado y tamano del hogar, y se actualiza cada 6 meses por la Oficina del Censo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que gastos puedo deducir en la prueba de medios?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Los gastos permitidos incluyen Estandares Nacionales del IRS para alimentos y ropa, Estandares Locales para vivienda y transporte, y montos reales para impuestos, seguros y cuidado de ninos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "El ingreso del Seguro Social cuenta en la prueba de medios?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Los beneficios del Seguro Social estan explicitamente excluidos del calculo de la prueba de medios."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que pasa si mi conyuge trabaja pero no presenta conmigo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El ingreso de su conyuge se incluye en el calculo de la prueba de medios aunque no presente bancarrota. Sin embargo, puede deducir un ajuste marital."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Puedo calificar para Capitulo 7 si estoy sobre el ingreso medio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Si. La segunda parte de la prueba examina su ingreso disponible despues de gastos permitidos. Si su ingreso disponible esta bajo ciertos umbrales, aun califica."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Como se calcula el periodo de ingresos de 6 meses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La prueba de medios examina los 6 meses calendario completos antes del mes en que presenta. El momento estrategico de su presentacion puede afectar que meses se incluyen."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que pasa si no paso la prueba de medios?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No pasar la prueba significa que surge una presuncion de abuso. Sus opciones incluyen presentar Capitulo 13, esperar hasta que su ingreso baje, o refutar la presuncion mostrando circunstancias especiales."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Puedo programar mi presentacion para pasar la prueba de medios?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Si. Porque la prueba usa un periodo retrospectivo de 6 meses, el momento estrategico puede ayudar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Los militares estan exentos de la prueba de medios?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ciertos veteranos y miembros en servicio activo estan exentos si sirvieron al menos 540 dias en los 4 anos antes de presentar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Incluyo el ingreso de mi hijo en la prueba de medios?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generalmente no. Solo el ingreso que contribuye a los gastos del hogar se incluye."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cual es el numero de formulario de la prueba de medios?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La prueba de medios se calcula en el Formulario Oficial de Bancarrota 122A-1 y, si es necesario, el Formulario 122A-2."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Puede el Fideicomisario de EE.UU. impugnar mis resultados de la prueba?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Si. El Fideicomisario revisa los calculos y puede presentar una mocion para desestimar su caso por abuso."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cual es la diferencia entre ingreso mensual actual e ingreso real?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El ingreso mensual actual es un termino legal que significa su ingreso promedio de los 6 meses antes de presentar. Puede ser muy diferente de su ingreso real al momento de presentar."
+      }
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Open Bankruptcy Project",
+      "item": "https://openbankruptcyproject.org"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "bankruptcymeanstest.org",
+      "item": "https://bankruptcymeanstest.org/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Preguntas Frecuentes",
+      "item": "https://bankruptcymeanstest.org/frequently-asked-questions-es.html"
+    }
+  ]
+}
+</script>
+
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #9eaab6;
+    --accent: #58a6ff;
+    --green: #3fb950;
+    --red: #f85149;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.7;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, summary:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .skip-link {
+    position: absolute; left: -9999px; top: auto;
+    width: 1px; height: 1px; overflow: hidden; z-index: 9999;
+    padding: 1rem; background: #238636; color: #fff;
+    font-weight: 600; text-decoration: none;
+  }
+  .skip-link:focus {
+    position: fixed; top: 10px; left: 10px;
+    width: auto; height: auto; overflow: visible;
+  }
+  nav {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 0.75rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  nav .site-name {
+    color: #f0f6fc;
+    font-weight: 700;
+    font-size: 1.1rem;
+    text-decoration: none;
+  }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+  .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+  header h1 {
+    color: #f0f6fc;
+    font-size: 2rem;
+    margin-bottom: 0.75rem;
+  }
+  header .subtitle {
+    color: var(--text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  main {
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+  .faq-item {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin: 0.75rem 0;
+    overflow: hidden;
+  }
+  .faq-item summary {
+    padding: 1rem 1.5rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 1rem;
+    color: var(--text);
+    list-style: none;
+    position: relative;
+    padding-right: 2.5rem;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-item summary::after {
+    content: '+';
+    position: absolute;
+    right: 1.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.3rem;
+    color: var(--accent);
+    font-weight: 400;
+  }
+  .faq-item[open] summary::after { content: '-'; }
+  .faq-item[open] summary {
+    border-bottom: 1px solid var(--border);
+    background: rgba(88,166,255,0.05);
+  }
+  .faq-item p {
+    padding: 1rem 1.5rem;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
+  .related-pages, .crosslinks {
+    margin: 2.5rem 0 1.5rem;
+    padding: 1.5rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  }
+  .related-pages h2, .crosslinks h2 {
+    color: var(--accent);
+    font-size: 1.1rem;
+    margin-bottom: 0.75rem;
+  }
+  .related-pages ul, .crosslinks ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .related-pages li, .crosslinks li {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.4rem 0.8rem;
+    font-size: 0.9rem;
+  }
+  footer {
+    text-align: center;
+    padding: 2rem;
+    border-top: 1px solid var(--border);
+    margin-top: 2rem;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+  }
+  footer .links { margin: 1rem 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; }
+  footer .links a { color: var(--text-muted); font-size: 0.85rem; }
+  footer .disclaimer { max-width: 700px; margin: 1rem auto 0; font-size: 0.8rem; color: #7d8590; }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.4rem; }
+    nav { padding: 0.5rem 1rem; }
+    main { padding: 1.5rem 1rem; }
+  }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+</head>
+<body>
+<a href="#main" class="skip-link">Saltar al contenido</a>
+<nav aria-label="Navegacion principal">
+  <a href="/" class="site-name">bankruptcymeanstest.org</a>
+  <div class="nav-links">
+    <a href="/">Inicio</a>
+    <a href="/frequently-asked-questions-es.html" class="active">Preguntas Frecuentes</a>
+    <a href="/frequently-asked-questions.html">English</a>
+  </div>
+</nav>
+<header>
+  <h1>Preguntas Frecuentes sobre la Prueba de Medios de Bancarrota</h1>
+  <p class="subtitle">Preguntas comunes sobre la prueba de medios de bancarrota, limites de ingresos y como calificar para Capitulo 7.</p>
+</header>
+<main id="main">
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a><span class="separator">&rsaquo;</span><a href="https://bankruptcymeanstest.org/">bankruptcymeanstest.org</a><span class="separator">&rsaquo;</span><span>Preguntas Frecuentes</span></nav>
+
+  <div class="faq-list" role="list">
+    <details class="faq-item">
+      <summary>Que es la prueba de medios de bancarrota?</summary>
+      <p>La prueba de medios es un calculo de dos partes que determina si califica para el Capitulo 7. Primero compara su ingreso familiar con el ingreso medio de su estado. Si esta por debajo, pasa automaticamente.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Que ingresos se incluyen en la prueba de medios?</summary>
+      <p>La prueba de medios usa su ingreso mensual promedio de los 6 meses antes de presentar, incluyendo salarios, propinas, bonos, ingresos de negocio, alquiler, pension y discapacidad. El ingreso del Seguro Social se excluye.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Cual es el limite de ingresos para Capitulo 7 en mi estado?</summary>
+      <p>El limite de ingresos varia por estado y tamano del hogar, y se actualiza cada 6 meses por la Oficina del Censo.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Que gastos puedo deducir en la prueba de medios?</summary>
+      <p>Los gastos permitidos incluyen Estandares Nacionales del IRS para alimentos y ropa, Estandares Locales para vivienda y transporte, y montos reales para impuestos, seguros y cuidado de ninos.</p>
+    </details>
+    <details class="faq-item">
+      <summary>El ingreso del Seguro Social cuenta en la prueba de medios?</summary>
+      <p>No. Los beneficios del Seguro Social estan explicitamente excluidos del calculo de la prueba de medios.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Que pasa si mi conyuge trabaja pero no presenta conmigo?</summary>
+      <p>El ingreso de su conyuge se incluye en el calculo de la prueba de medios aunque no presente bancarrota. Sin embargo, puede deducir un ajuste marital.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Puedo calificar para Capitulo 7 si estoy sobre el ingreso medio?</summary>
+      <p>Si. La segunda parte de la prueba examina su ingreso disponible despues de gastos permitidos. Si su ingreso disponible esta bajo ciertos umbrales, aun califica.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Como se calcula el periodo de ingresos de 6 meses?</summary>
+      <p>La prueba de medios examina los 6 meses calendario completos antes del mes en que presenta. El momento estrategico de su presentacion puede afectar que meses se incluyen.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Que pasa si no paso la prueba de medios?</summary>
+      <p>No pasar la prueba significa que surge una presuncion de abuso. Sus opciones incluyen presentar Capitulo 13, esperar hasta que su ingreso baje, o refutar la presuncion mostrando circunstancias especiales.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Puedo programar mi presentacion para pasar la prueba de medios?</summary>
+      <p>Si. Porque la prueba usa un periodo retrospectivo de 6 meses, el momento estrategico puede ayudar.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Los militares estan exentos de la prueba de medios?</summary>
+      <p>Ciertos veteranos y miembros en servicio activo estan exentos si sirvieron al menos 540 dias en los 4 anos antes de presentar.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Incluyo el ingreso de mi hijo en la prueba de medios?</summary>
+      <p>Generalmente no. Solo el ingreso que contribuye a los gastos del hogar se incluye.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Cual es el numero de formulario de la prueba de medios?</summary>
+      <p>La prueba de medios se calcula en el Formulario Oficial de Bancarrota 122A-1 y, si es necesario, el Formulario 122A-2.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Puede el Fideicomisario de EE.UU. impugnar mis resultados de la prueba?</summary>
+      <p>Si. El Fideicomisario revisa los calculos y puede presentar una mocion para desestimar su caso por abuso.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Cual es la diferencia entre ingreso mensual actual e ingreso real?</summary>
+      <p>El ingreso mensual actual es un termino legal que significa su ingreso promedio de los 6 meses antes de presentar. Puede ser muy diferente de su ingreso real al momento de presentar.</p>
+    </details>
+  </div>
+    <div class="related-pages">
+      <h2>Mas Recursos en Este Sitio</h2>
+      <ul>
+        <li><a href="/how-means-test-works.html">How the Means Test Works</a></li>
+        <li><a href="/median-income-by-state.html">Median Income by State</a></li>
+        <li><a href="/expense-deductions.html">Expense Deductions</a></li>
+        <li><a href="/income-exclusions.html">Income Exclusions</a></li>
+        <li><a href="/common-mistakes.html">Common Mistakes</a></li>
+        <li><a href="/calculator.html">Calculator</a></li>
+      </ul>
+    </div>
+    <div class="crosslinks">
+      <h2>Recursos Relacionados</h2>
+      <ul>
+        <li><a href="https://chapter7vs13.org?utm_source=bankruptcymeanstest.org&utm_medium=paa-faq&utm_campaign=btn-network">Chapter 7 vs Chapter 13</a></li>
+        <li><a href="https://howtofilebankruptcy.org?utm_source=bankruptcymeanstest.org&utm_medium=paa-faq&utm_campaign=btn-network">How to File Bankruptcy</a></li>
+        <li><a href="https://bankruptcyexemptionsbystate.com?utm_source=bankruptcymeanstest.org&utm_medium=paa-faq&utm_campaign=btn-network">Exemptions by State</a></li>
+      </ul>
+    </div>
+
+</main>
+<!-- BTN:FOOTER:START -->
+<footer role="contentinfo">
+  <p><strong>Open Bankruptcy Project</strong></p>
+  <p>Informacion real, sin condiciones.</p>
+  <div class="links">
+    <a href="https://openbankruptcyproject.org?utm_source=bankruptcymeanstest.org&utm_medium=referral&utm_campaign=btn-network">openbankruptcyproject.org</a>
+    <a href="https://1328f.com?utm_source=bankruptcymeanstest.org&utm_medium=referral&utm_campaign=btn-network">1328f.com</a>
+    <a href="https://chapter7vs13.org?utm_source=bankruptcymeanstest.org&utm_medium=referral&utm_campaign=btn-network">chapter7vs13.org</a>
+    <a href="https://bankruptcymeanstest.org?utm_source=bankruptcymeanstest.org&utm_medium=referral&utm_campaign=btn-network">bankruptcymeanstest.org</a>
+    <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.4rem 1rem;border-radius:6px;font-weight:600;font-size:0.85rem;text-decoration:none">&#9829; Sponsor</a>
+  </div>
+  <p class="disclaimer">Este sitio proporciona informacion general solamente y no constituye asesoramiento legal. Consulte a un abogado calificado para su situacion especifica.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
+  <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590">Terms</a></p>
+</footer>
+<!-- BTN:FOOTER:END -->
+<script src="/btn-engage.js" defer></script>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
+</body>
+</html>

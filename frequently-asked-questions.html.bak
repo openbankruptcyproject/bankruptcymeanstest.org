@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<!-- BTN:GA4:START -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>Means Test FAQ - Chapter 7 Eligibility Questions Answered</title>
+<meta name="description" content="Common questions about the bankruptcy means test, income limits, expense deductions, and how to qualify for Chapter 7 bankruptcy.">
+<meta name="keywords" content="bankruptcy means test, Chapter 7 income limit, means test calculator, qualify for Chapter 7">
+<link rel="canonical" href="https://bankruptcymeanstest.org/frequently-asked-questions.html">
+<link rel="alternate" hreflang="en" href="https://bankruptcymeanstest.org/frequently-asked-questions.html">
+<link rel="alternate" hreflang="es" href="https://bankruptcymeanstest.org/frequently-asked-questions-es.html">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Means Test FAQ - Chapter 7 Eligibility Questions Answered">
+<meta property="og:description" content="Common questions about the bankruptcy means test, income limits, expense deductions, and how to qualify for Chapter 7 bankruptcy.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://bankruptcymeanstest.org/frequently-asked-questions.html">
+<meta property="og:site_name" content="bankruptcymeanstest.org">
+<meta property="og:image" content="/og-image.svg">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Means Test FAQ - Chapter 7 Eligibility Questions Answered">
+<meta name="twitter:description" content="Common questions about the bankruptcy means test, income limits, expense deductions, and how to qualify for Chapter 7 bankruptcy.">
+<meta name="twitter:image" content="/og-image.svg">
+
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#0d1117">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the bankruptcy means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The means test is a two-part calculation that determines whether you qualify for Chapter 7 bankruptcy. First, it compares your household income to your state's median income. If you are below the median, you pass automatically. If above, a second calculation examines your disposable income after allowed expenses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What income is included in the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The means test uses your average monthly income for the 6 months before filing, including wages, salary, tips, bonuses, overtime, business income, rental income, pension, disability, unemployment, and contributions from others. Social Security income is excluded."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the income limit for Chapter 7 in my state?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The income limit varies by state and household size, and is updated every 6 months by the Census Bureau. For example, a family of 4 in Missouri has a median income of approximately $88,724 (2024). Our calculator at bankruptcymeanstest.org/calculator.html uses the latest figures."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What expenses can I deduct on the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Allowed expenses include IRS National Standards for food, clothing, and personal care; IRS Local Standards for housing and transportation; actual amounts for taxes, insurance, childcare, education for disabled children, healthcare, and secured debt payments. You cannot deduct actual spending that exceeds IRS standards in most categories."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Social Security income count on the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Social Security benefits are explicitly excluded from the means test calculation under 11 U.S.C. Section 101(10A). This includes retirement, disability (SSDI), and survivor benefits. SSI (Supplemental Security Income) is also excluded."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if my spouse works but is not filing with me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your spouse's income is included in the means test calculation even if they are not filing bankruptcy. However, you can deduct a 'marital adjustment' for your spouse's separate expenses, which may offset their income."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I still qualify for Chapter 7 if I'm above the median income?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. If your income exceeds the median, the second part of the means test examines your disposable income after allowed expenses. If your disposable income is below certain thresholds, you still qualify. High-expense filers (mortgage, car payments, medical costs) often pass despite above-median income."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the 6-month income period calculated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The means test looks at the 6 full calendar months before the month you file. For example, if you file in July, the test examines income from January through June. Strategic timing of your filing can affect which months are included."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if I fail the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Failing the means test means a presumption of abuse arises and you may not qualify for Chapter 7. Your options include filing Chapter 13 instead, waiting to file until your income drops, or rebutting the presumption by showing special circumstances (such as a medical condition or military service)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I time my filing to pass the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Because the means test uses a 6-month lookback period, strategic timing can help. If you had unusually high income in recent months (bonus, overtime, temporary job), waiting until those months fall outside the 6-month window can lower your average."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are military service members exempt from the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain veterans and active duty service members are exempt. If you served on active duty or in a homeland defense activity for at least 540 days in the 4 years before filing, you are exempt from the means test. National Guard members who performed homeland defense activity may also qualify."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I include my child's income on the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally no. Only income that contributes to your household expenses is included. A child's part-time job income is typically not counted unless they contribute to household bills."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the means test form number?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The means test is calculated on Official Bankruptcy Form 122A-1 (Chapter 7 Statement of Your Current Monthly Income) and, if needed, Form 122A-2 (Chapter 7 Means Test Calculation). These forms are available free at uscourts.gov."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can the U.S. Trustee challenge my means test results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The U.S. Trustee reviews means test calculations and can file a motion to dismiss your case for abuse if they believe the calculations are inaccurate or if your financial circumstances suggest you can afford to pay creditors through Chapter 13."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between current monthly income and actual income?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current monthly income (CMI) is a legal term that means your average income over the 6 months before filing. It may be very different from your actual income at the time of filing. If you lost a job recently, your CMI may be higher than your actual current income."
+      }
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Open Bankruptcy Project",
+      "item": "https://openbankruptcyproject.org"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "bankruptcymeanstest.org",
+      "item": "https://bankruptcymeanstest.org/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "FAQ",
+      "item": "https://bankruptcymeanstest.org/frequently-asked-questions.html"
+    }
+  ]
+}
+</script>
+
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #9eaab6;
+    --accent: #58a6ff;
+    --green: #3fb950;
+    --red: #f85149;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.7;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, summary:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .skip-link {
+    position: absolute; left: -9999px; top: auto;
+    width: 1px; height: 1px; overflow: hidden; z-index: 9999;
+    padding: 1rem; background: #238636; color: #fff;
+    font-weight: 600; text-decoration: none;
+  }
+  .skip-link:focus {
+    position: fixed; top: 10px; left: 10px;
+    width: auto; height: auto; overflow: visible;
+  }
+  nav {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 0.75rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  nav .site-name {
+    color: #f0f6fc;
+    font-weight: 700;
+    font-size: 1.1rem;
+    text-decoration: none;
+  }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+  .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+  header h1 {
+    color: #f0f6fc;
+    font-size: 2rem;
+    margin-bottom: 0.75rem;
+  }
+  header .subtitle {
+    color: var(--text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  main {
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+  .faq-item {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin: 0.75rem 0;
+    overflow: hidden;
+  }
+  .faq-item summary {
+    padding: 1rem 1.5rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 1rem;
+    color: var(--text);
+    list-style: none;
+    position: relative;
+    padding-right: 2.5rem;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-item summary::after {
+    content: '+';
+    position: absolute;
+    right: 1.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.3rem;
+    color: var(--accent);
+    font-weight: 400;
+  }
+  .faq-item[open] summary::after { content: '-'; }
+  .faq-item[open] summary {
+    border-bottom: 1px solid var(--border);
+    background: rgba(88,166,255,0.05);
+  }
+  .faq-item p {
+    padding: 1rem 1.5rem;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
+  .related-pages, .crosslinks {
+    margin: 2.5rem 0 1.5rem;
+    padding: 1.5rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  }
+  .related-pages h2, .crosslinks h2 {
+    color: var(--accent);
+    font-size: 1.1rem;
+    margin-bottom: 0.75rem;
+  }
+  .related-pages ul, .crosslinks ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .related-pages li, .crosslinks li {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.4rem 0.8rem;
+    font-size: 0.9rem;
+  }
+  footer {
+    text-align: center;
+    padding: 2rem;
+    border-top: 1px solid var(--border);
+    margin-top: 2rem;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+  }
+  footer .links { margin: 1rem 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; }
+  footer .links a { color: var(--text-muted); font-size: 0.85rem; }
+  footer .disclaimer { max-width: 700px; margin: 1rem auto 0; font-size: 0.8rem; color: #7d8590; }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.4rem; }
+    nav { padding: 0.5rem 1rem; }
+    main { padding: 1.5rem 1rem; }
+  }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+</head>
+<body>
+<a href="#main" class="skip-link">Skip to main content</a>
+<nav aria-label="Main navigation">
+  <a href="/" class="site-name">bankruptcymeanstest.org</a>
+  <div class="nav-links">
+    <a href="/">Home</a>
+    <a href="/frequently-asked-questions.html" class="active">FAQ</a>
+    <a href="/frequently-asked-questions-es.html">Espanol</a>
+  </div>
+</nav>
+<header>
+  <h1>Means Test FAQ - Chapter 7 Eligibility Questions Answered</h1>
+  <p class="subtitle">Common questions about the bankruptcy means test, income limits, expense deductions, and how to qualify for Chapter 7 bankruptcy.</p>
+</header>
+<main id="main">
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a><span class="separator">&rsaquo;</span><a href="https://bankruptcymeanstest.org/">bankruptcymeanstest.org</a><span class="separator">&rsaquo;</span><span>FAQ</span></nav>
+
+  <div class="faq-list" role="list">
+    <details class="faq-item">
+      <summary>What is the bankruptcy <a href="https://meanstest.org/" title="means test">means test</a>?</summary>
+      <p>The <a href="https://meanstest.org/" title="means test">means test</a> is a two-part calculation that determines whether you qualify for <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> bankruptcy. First, it compares your household income to your state's median income. If you are below the median, you pass automatically. If above, a second calculation examines your disposable income after allowed expenses.</p>
+    </details>
+    <details class="faq-item">
+      <summary>What income is included in the means test?</summary>
+      <p>The means test uses your average monthly income for the 6 months before filing, including wages, salary, tips, bonuses, overtime, business income, rental income, pension, disability, unemployment, and contributions from others. Social Security income is excluded.</p>
+    </details>
+    <details class="faq-item">
+      <summary>What is the income limit for <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> in my state?</summary>
+      <p>The income limit varies by state and household size, and is updated every 6 months by the Census Bureau. For example, a family of 4 in Missouri has a median income of approximately $88,724 (2024). Our calculator at bankruptcymeanstest.org/calculator.html uses the latest figures.</p>
+    </details>
+    <details class="faq-item">
+      <summary>What expenses can I deduct on the means test?</summary>
+      <p>Allowed expenses include IRS National Standards for food, clothing, and personal care; IRS Local Standards for housing and transportation; actual amounts for taxes, insurance, childcare, education for disabled children, healthcare, and secured debt payments. You cannot deduct actual spending that exceeds IRS standards in most categories.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Does Social Security income count on the means test?</summary>
+      <p>No. Social Security benefits are explicitly excluded from the means test calculation under 11 U.S.C. Section 101(10A). This includes retirement, disability (SSDI), and survivor benefits. SSI (Supplemental Security Income) is also excluded.</p>
+    </details>
+    <details class="faq-item">
+      <summary>What if my spouse works but is not filing with me?</summary>
+      <p>Your spouse's income is included in the means test calculation even if they are not filing bankruptcy. However, you can deduct a 'marital adjustment' for your spouse's separate expenses, which may offset their income.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Can I still qualify for Chapter 7 if I'm above the median income?</summary>
+      <p>Yes. If your income exceeds the median, the second part of the means test examines your disposable income after allowed expenses. If your disposable income is below certain thresholds, you still qualify. High-expense filers (mortgage, car payments, medical costs) often pass despite above-median income.</p>
+    </details>
+    <details class="faq-item">
+      <summary>How is the 6-month income period calculated?</summary>
+      <p>The means test looks at the 6 full calendar months before the month you file. For example, if you file in July, the test examines income from January through June. Strategic timing of your filing can affect which months are included.</p>
+    </details>
+    <details class="faq-item">
+      <summary>What happens if I fail the means test?</summary>
+      <p>Failing the means test means a presumption of abuse arises and you may not qualify for Chapter 7. Your options include filing <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> instead, waiting to file until your income drops, or rebutting the presumption by showing special circumstances (such as a medical condition or military service).</p>
+    </details>
+    <details class="faq-item">
+      <summary>Can I time my filing to pass the means test?</summary>
+      <p>Yes. Because the means test uses a 6-month lookback period, strategic timing can help. If you had unusually high income in recent months (bonus, overtime, temporary job), waiting until those months fall outside the 6-month window can lower your average.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Are military service members exempt from the means test?</summary>
+      <p>Certain veterans and active duty service members are exempt. If you served on active duty or in a homeland defense activity for at least 540 days in the 4 years before filing, you are exempt from the means test. National Guard members who performed homeland defense activity may also qualify.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Do I include my child's income on the means test?</summary>
+      <p>Generally no. Only income that contributes to your household expenses is included. A child's part-time job income is typically not counted unless they contribute to household bills.</p>
+    </details>
+    <details class="faq-item">
+      <summary>What is the means test form number?</summary>
+      <p>The means test is calculated on Official Bankruptcy Form 122A-1 (Chapter 7 Statement of Your Current Monthly Income) and, if needed, Form 122A-2 (Chapter 7 Means Test Calculation). These forms are available free at uscourts.gov.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Can the U.S. Trustee challenge my means test results?</summary>
+      <p>Yes. The U.S. Trustee reviews means test calculations and can file a motion to dismiss your case for abuse if they believe the calculations are inaccurate or if your financial circumstances suggest you can afford to pay creditors through <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>.</p>
+    </details>
+    <details class="faq-item">
+      <summary>What is the difference between current monthly income and actual income?</summary>
+      <p>Current monthly income (CMI) is a legal term that means your average income over the 6 months before filing. It may be very different from your actual income at the time of filing. If you lost a job recently, your CMI may be higher than your actual current income.</p>
+    </details>
+  </div>
+    <div class="related-pages">
+      <h2>More Resources on This Site</h2>
+      <ul>
+        <li><a href="/how-means-test-works.html">How the Means Test Works</a></li>
+        <li><a href="/median-income-by-state.html">Median Income by State</a></li>
+        <li><a href="/expense-deductions.html">Expense Deductions</a></li>
+        <li><a href="/income-exclusions.html">Income Exclusions</a></li>
+        <li><a href="/common-mistakes.html">Common Mistakes</a></li>
+        <li><a href="/calculator.html">Calculator</a></li>
+      </ul>
+    </div>
+    <div class="crosslinks">
+      <h2>Related Resources</h2>
+      <ul>
+        <li><a href="https://chapter7vs13.org?utm_source=bankruptcymeanstest.org&utm_medium=paa-faq&utm_campaign=btn-network">Chapter 7 vs Chapter 13</a></li>
+        <li><a href="https://howtofilebankruptcy.org?utm_source=bankruptcymeanstest.org&utm_medium=paa-faq&utm_campaign=btn-network">How to File Bankruptcy</a></li>
+        <li><a href="https://bankruptcyexemptionsbystate.com?utm_source=bankruptcymeanstest.org&utm_medium=paa-faq&utm_campaign=btn-network">Exemptions by State</a></li>
+      </ul>
+    </div>
+
+
+<div style="margin:1.5rem 0"><h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Resources</h2>
+    <a href="https://openbankruptcyproject.org/rule-9037/" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Rule 9037 Compliance Guide</a>
+</div>
+</main>
+<!-- BTN:FOOTER:START -->
+<footer role="contentinfo">
+  <p><strong>Open Bankruptcy Project</strong></p>
+  <p>Real information, no strings.</p>
+  <div class="links">
+    <a href="https://openbankruptcyproject.org?utm_source=bankruptcymeanstest.org&utm_medium=referral&utm_campaign=btn-network">openbankruptcyproject.org</a>
+    <a href="https://1328f.com?utm_source=bankruptcymeanstest.org&utm_medium=referral&utm_campaign=btn-network">1328f.com</a>
+    <a href="https://chapter7vs13.org?utm_source=bankruptcymeanstest.org&utm_medium=referral&utm_campaign=btn-network">chapter7vs13.org</a>
+    <a href="https://bankruptcymeanstest.org?utm_source=bankruptcymeanstest.org&utm_medium=referral&utm_campaign=btn-network">bankruptcymeanstest.org</a>
+    <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.4rem 1rem;border-radius:6px;font-weight:600;font-size:0.85rem;text-decoration:none">&#9829; Sponsor</a>
+  </div>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
+  <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590">Terms</a></p>
+</footer>
+<!-- BTN:FOOTER:END -->
+<script src="/btn-engage.js" defer></script>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
+</body>
+</html>

@@ -1,6 +1,6 @@
 # bankruptcymeanstest.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on bankruptcymeanstest.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -13,13 +13,13 @@ Source: https://bankruptcymeanstest.org/alabama.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Alabama
-
 Alabama Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Alabama by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Alabama. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Alabama, the current median is approximately $56,050 per year. For a family of four, it is approximately $99,208. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Alabama Median Income Thresholds (2026)
 
@@ -65,6 +65,28 @@ Alabama Income and the Means Test
 
 With a single-person median income of $56,050, Alabama has one of the lower income thresholds nationally. Filers whose income is close to this amount should carefully calculate their 6-month average, as even small fluctuations can determine whether they pass Part 1. Timing your filing date strategically can make a difference.
 
+Alabama Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 1,743 consumer bankruptcy cases filed in Alabama federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 7478Insufficient dataInsufficient data
+
+Chapter 131,265Insufficient dataInsufficient data
+
+Chapter 7 Share
+
+27.4% of consumer filings
+
+Chapter 13 Share
+
+72.6% of consumer filings
+
+Alabama is a Chapter-13 heavy state (72.6% of consumer filings vs 27.4% for Chapter 7), reflecting the region's filing patterns where debtors more often retain property through a repayment plan than liquidate in Chapter 7.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Alabama
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -96,18 +118,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -118,13 +128,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -133,13 +137,13 @@ Source: https://bankruptcymeanstest.org/alaska.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Alaska
-
 Alaska Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Alaska by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Alaska. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Alaska, the current median is approximately $73,866 per year. For a family of four, it is approximately $130,743. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Alaska Median Income Thresholds (2026)
 
@@ -214,18 +218,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -236,13 +228,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -251,13 +237,13 @@ Source: https://bankruptcymeanstest.org/arizona.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Arizona
-
 Arizona Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Arizona by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Arizona. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Arizona, the current median is approximately $65,014 per year. For a family of four, it is approximately $115,075. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Arizona Median Income Thresholds (2026)
 
@@ -332,18 +318,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -354,13 +328,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -369,13 +337,13 @@ Source: https://bankruptcymeanstest.org/arkansas.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Arkansas
-
 Arkansas Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Arkansas by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Arkansas. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Arkansas, the current median is approximately $54,714 per year. For a family of four, it is approximately $96,844. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Arkansas Median Income Thresholds (2026)
 
@@ -421,6 +389,28 @@ Arkansas Income and the Means Test
 
 With a single-person median income of $54,714, Arkansas has one of the lower income thresholds nationally. Filers whose income is close to this amount should carefully calculate their 6-month average, as even small fluctuations can determine whether they pass Part 1. Timing your filing date strategically can make a difference.
 
+Arkansas Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 959 consumer bankruptcy cases filed in Arkansas federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 746296.7%3.3%
+
+Chapter 1349760.9%39.1%
+
+Chapter 7 Share
+
+48.2% of consumer filings
+
+Chapter 13 Share
+
+51.8% of consumer filings
+
+Arkansas stands out with a 61% Chapter 13 discharge rate among resolved cases - above the national norm. Plans that run to completion are the majority here. Chapter 7 in Arkansas is a high-completion path: 97% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. Consumer filings in Arkansas split 48.2% Chapter 7 and 51.8% Chapter 13, close to the national mix.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Arkansas
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -452,18 +442,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -474,326 +452,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
-
----
-
-## Chapter 7 Means Test Calculator: Parts 1 and 2 [2026]
-Source: https://bankruptcymeanstest.org/calculator.html
-
-Means Test Guide | Calculator | Discharge Screener | Research
-
-Home›Means Test Guide›Calculator
-
-Chapter 7 Means Test Calculator
-
-The only free calculator that does both Part 1 and Part 2 of the means test. Updated with April 2026 Census/DOJ median income data and current IRS expense standards.
-
-Important: This calculator performs both Part 1 (income screening) and Part 2 (expense deductions) of the Chapter 7 means test. Median income data is from the Census Bureau / DOJ, effective April 1, 2026. IRS expense standards effective April 21, 2025 (in effect through June 2026). Housing uses state-level averages; the official form uses county-level data. Always verify at the DOJ Means Testing page. This is not legal advice.
-
-Means Test Income Screening
-
-Three steps. Instant result. No data collected.
-
-1
-Select your state
-
-Choose the state where you have lived for the greater part of the last 180 days.
-
--- Choose a state --
-
-2
-Household size
-
-Count everyone in your household - yourself, spouse (even if not filing), and dependents.
-
--- Select --
-1 person
-2 people
-3 people
-4 people
-5 people
-6 people
-7 people
-8 people
-9 people
-10+ people
-
-3
-Average gross monthly income
-
-Add up all gross income (before taxes) for the last 6 full calendar months, then divide by 6. Include wages, self-employment, pensions, Social Security, rental income, and any other regular income.
-
-Enter your average monthly gross income. We will annualize it (multiply by 12) to compare against the annual median.
-
-Check If You Qualify
-
-Start Over
-
-Part 2: Expense Deductions
-
-The IRS allows standard deductions that reduce your disposable income. Many above-median filers still qualify.
-
-Pre-filled amounts are IRS National/Local Standards based on your state and household size. Enter your actual amounts for taxes, insurance, and debt payments. All amounts are monthly.
-
-4
-IRS Standard Deductions (auto-filled)
-
-These are set by the IRS based on your household size and state. You cannot change them on the official form.
-
-5
-Your Actual Expenses
-
-Enter your actual monthly amounts. Leave blank or 0 if not applicable.
-
-Taxes withheld (monthly)
-
-Federal, state, local income taxes + FICA (from pay stub)
-
-Mandatory payroll deductions (monthly)
-
-Union dues, mandatory retirement contributions, uniform costs
-
-Health insurance premiums (monthly)
-
-Your share of premiums for medical, dental, vision (not employer-paid portion)
-
-Term life / disability insurance (monthly)
-
-Number of vehicles with loan/lease payments
-
-0 - no vehicle payments
-1 vehicle
-2 vehicles
-
-Total monthly vehicle payments
-
-Combined loan/lease payments (capped at $662/vehicle)
-
-Mortgage / rent payment (monthly)
-
-Total monthly mortgage (including property tax + insurance escrow) or rent
-
-Other secured debt payments (monthly)
-
-Any secured debts not listed above (furniture loans, etc.)
-
-Priority debt payments (monthly)
-
-Past-due taxes, child support arrears, student loans divided by 60 months
-
-Child care / dependent care (monthly)
-
-Education expenses for dependent children (monthly)
-
-K-12 education, capped at $209.58 per child per month
-
-Charitable contributions (monthly)
-
-To qualified organizations, capped at 15% of gross income
-
-Total nonpriority unsecured debt
-
-Credit cards, medical bills, personal loans (total balance, not monthly payment)
-
-Calculate Part 2 Result
-
-How the Chapter 7 Means Test Works
-
-The means test was introduced by BAPCPA in 2005 to determine whether a debtor's income is low enough to file Chapter 7 bankruptcy. It has two parts:
-
-Part 1: Income Screening
-
-Compare your annualized income (average of last 6 months, multiplied by 12) to the median income for your state and household size. If you are below the median, you pass - no further analysis needed. This calculator performs both parts.
-
-Part 2: Expense Deductions
-
-If your income is above the median, you may still qualify. Part 2 subtracts allowable expenses (IRS standards, actual secured debt payments, priority debts) from your income. If disposable income is low enough, you can still file Chapter 7.
-
-Gather 6 months of income. Add up all gross income from all sources for the 6 full calendar months before your filing date. Divide by 6 to get your average monthly income.
-
-Annualize. Multiply that monthly average by 12. This is your "current monthly income" annualized - the number the means test uses.
-
-Compare to state median. The DOJ publishes median income figures by state and household size, updated every April and November. If your annualized income is at or below the median, you pass Part 1.
-
-If above median, complete Form 122A-2. Deduct allowed expenses from your income. If your remaining disposable income falls below the statutory threshold, you still qualify for Chapter 7.
-
-File Form 122A-1. Every Chapter 7 filer must file this form, even if they pass Part 1. It documents the calculation for the court.
-
-Who Is Exempt from the Means Test?
-
-Disabled Veterans
-
-Veterans with disabilities incurred during active duty or homeland defense are exempt from the means test entirely, under 11 U.S.C. Section 707(b)(2)(D).
-
-Non-Consumer Debts
-
-If your debts are primarily business debts rather than consumer debts, the means test does not apply. The 50% threshold is calculated from your total debt.
-
-National Guard / Reserves
-
-Members called to active duty or homeland defense for 90+ days in the preceding 540 days are exempt from the means test.
-
-Income Below Median
-
-If you pass Part 1 (below state median), you effectively pass the entire means test. No expense calculation is needed.
-
-What Counts as Income on the Means Test?
-
-The means test uses "current monthly income" (CMI) as defined in 11 U.S.C. Section 101(10A). This is broader than what you might think of as income:
-
-Included: Wages, salary, tips, bonuses, overtime, commissions
-
-Included: Net business or self-employment income
-
-Included: Rental and real property income
-
-Included: Interest, dividends, royalties
-
-Included: Pension and retirement income
-
-Included: Workers' compensation, disability, unemployment
-
-Included: Alimony, maintenance, support received
-
-Included: Contributions from non-filing spouse or others to household expenses
-
-Excluded: Social Security benefits (the one major exclusion)
-
-Excluded: Payments to victims of war crimes or terrorism
-
-Frequently Asked Questions
-
-What happens if I am above the state median income?
-
-Being above the median does not automatically disqualify you from Chapter 7. Use the Part 2 calculator above to apply IRS-standard expense deductions including housing, transportation, taxes, insurance, and debt payments. Many above-median filers still qualify. If your 60-month disposable income falls below $8,175, there is no presumption of abuse. Chapter 13 remains an option if you do not qualify for Chapter 7.
-
-How far back does the means test look at my income?
-
-The means test uses the average of your gross income over the 6 full calendar months before your filing date. This is called "current monthly income" under 11 U.S.C. Section 101(10A). Note: it uses full calendar months, not the most recent 180 days. If your income has recently dropped (e.g., job loss), you may benefit from waiting to file so the higher-income months roll off the 6-month window.
-
-Do I include my spouse's income on the means test?
-
-If you are married and filing alone (not jointly), you must include your spouse's income on Form 122A-1 - but you can then deduct a "marital adjustment" for the portion of your spouse's income that is not used for your household expenses or your dependents' expenses. If filing jointly, both incomes are included and compared against the median for your combined household size.
-
-When do the median income figures change?
-
-The DOJ updates the median family income data twice per year, effective for cases filed on or after April 1 and November 1. The data comes from the Census Bureau's American Community Survey. The figures in this calculator are based on the April 2026 data (published March 18, 2026). Always confirm the current figures at justice.gov/ust/means-testing before filing.
-
-What is Form 122A and where do I get it?
-
-Form 122A-1 (Chapter 7 Statement of Your Current Monthly Income) is the official means test form. All Chapter 7 filers must complete it. If your income is above the state median, you must also complete Form 122A-2 (Chapter 7 Means Test Calculation). Both forms are available for free at uscourts.gov. This calculator helps you estimate the result of 122A-1 before you fill out the official form.
-
-Need More Bankruptcy Answers?
-
-Check discharge eligibility, explore the automatic stay, or research your district's statistics.
-
-Discharge Screener
-
-Stay Informed
-
-Get notified when median income figures are updated or new tools launch.
-
-Subscribe
-
-Further Reading & Resources
-
-Authority sources for deeper research on the bankruptcy means test:
-
-11 U.S.C. Section 707(b)
-Cornell LII - means test statute
-
-Census Median Income Data
-Income thresholds
-
-Means Test Form (B 122A)
-Official form
-
-U.S. Trustee Means Test Data
-DOJ income multipliers
-
-CFPB: Chapter 7 Eligibility
-Consumer guide
-
-Find Free Legal Aid
-LSC legal aid finder
-
-Means Test Research
-Google Scholar
-
-Related Guides
-
-Bankruptcy Means Test Guide
-
-Find out if you qualify for Chapter 7
-
-meanstest.org →
-
-Chapter 7 Discharge Time Bar Guide
-
-Complete guide to the 8-year Chapter 7 discharge bar
-
-727a8.com →
-
-Section 727(a)(8) Research Hub
-
-Case law and circuit analysis for Section 727(a)(8)
-
-727a8.org →
-
-When Bankruptcy Is Denied
-
-Why bankruptcy cases get denied
-
-bankruptcydenied.com →
-
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-What is Chapter 7 Bankruptcy?
-
-Chapter 7 Bankruptcy Guide
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project | Free information, no strings.
-
-Automatic Stay ·
-341 Meeting ·
-523(a) Exceptions ·
-727(a)(8) ·
-Ch 7 vs 13 ·
-How to File ·
-Cost Guide
-
-Privacy | Terms | Open Bankruptcy Project
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-People Also Ask
-
-What is the means test for bankruptcy?
-
-Can I take the means test online?
-
-What expenses can I deduct on the means test?
-
-View all questions →
-
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Free Means Test Calculator -- meanstest.org
-
-Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -802,13 +461,13 @@ Source: https://bankruptcymeanstest.org/california.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›California
-
 California Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for California by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in California. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in California, the current median is approximately $79,253 per year. For a family of four, it is approximately $140,278. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 California Median Income Thresholds (2026)
 
@@ -854,6 +513,28 @@ California Income and the Means Test
 
 The single-person median income threshold in California is $79,253, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+California Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 6,723 consumer bankruptcy cases filed in California federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 75,80898.4%1.6%
+
+Chapter 1391538.8%61.2%
+
+Chapter 7 Share
+
+86.4% of consumer filings
+
+Chapter 13 Share
+
+13.6% of consumer filings
+
+California shows a Chapter 13 discharge rate of 39% in resolved cases, which is in the middle of the national distribution. Completion is meaningfully easier here than in the highest-dismissal districts, but still far from guaranteed. Chapter 7 in California is a high-completion path: 98% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. California files more Chapter 7 than Chapter 13 (86.4% vs 13.6%), consistent with a state where median income supports more below-median filers and fewer debtors needing a 3-5 year repayment structure.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in California
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -885,18 +566,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -907,13 +576,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -922,13 +585,13 @@ Source: https://bankruptcymeanstest.org/colorado.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Colorado
-
 Colorado Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Colorado by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Colorado. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Colorado, the current median is approximately $82,700 per year. For a family of four, it is approximately $146,379. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Colorado Median Income Thresholds (2026)
 
@@ -974,6 +637,28 @@ Colorado Income and the Means Test
 
 With a single-person median income of $82,700, Colorado has one of the higher income thresholds in the country. This means more filers in Colorado may pass Part 1 of the means test compared to lower-income states. However, the higher cost of living in Colorado often offsets the higher median.
 
+Colorado Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 86 consumer bankruptcy cases filed in Colorado federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 78498.8%1.2%
+
+Chapter 132Insufficient dataInsufficient data
+
+Chapter 7 Share
+
+97.7% of consumer filings
+
+Chapter 13 Share
+
+2.3% of consumer filings
+
+Colorado files more Chapter 7 than Chapter 13 (97.7% vs 2.3%), consistent with a state where median income supports more below-median filers and fewer debtors needing a 3-5 year repayment structure.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Colorado
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -1003,18 +688,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -1025,13 +698,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -1161,17 +828,33 @@ What is Chapter 7 Bankruptcy?
 
 Chapter 7 Bankruptcy Guide
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-Part of the Open Bankruptcy Project | Free information, no strings.
+Real information, no strings.
 
-Privacy | Terms | Open Bankruptcy Project
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-No legal advice is provided. This is educational information only.
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 You May Also Find Helpful
 
@@ -1188,13 +871,13 @@ Source: https://bankruptcymeanstest.org/connecticut.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Connecticut
-
 Connecticut Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Connecticut by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Connecticut. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Connecticut, the current median is approximately $87,411 per year. For a family of four, it is approximately $154,717. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Connecticut Median Income Thresholds (2026)
 
@@ -1240,6 +923,28 @@ Connecticut Income and the Means Test
 
 With a single-person median income of $87,411, Connecticut has one of the higher income thresholds in the country. This means more filers in Connecticut may pass Part 1 of the means test compared to lower-income states. However, the higher cost of living in Connecticut often offsets the higher median.
 
+Connecticut Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 93 consumer bankruptcy cases filed in Connecticut federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 77495.2%4.8%
+
+Chapter 1319Insufficient dataInsufficient data
+
+Chapter 7 Share
+
+79.6% of consumer filings
+
+Chapter 13 Share
+
+20.4% of consumer filings
+
+Connecticut files more Chapter 7 than Chapter 13 (79.6% vs 20.4%), consistent with a state where median income supports more below-median filers and fewer debtors needing a 3-5 year repayment structure.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Connecticut
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -1269,18 +974,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -1291,13 +984,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -1306,13 +993,13 @@ Source: https://bankruptcymeanstest.org/delaware.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Delaware
-
 Delaware Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Delaware by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Delaware. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Delaware, the current median is approximately $72,198 per year. For a family of four, it is approximately $127,790. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Delaware Median Income Thresholds (2026)
 
@@ -1387,18 +1074,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -1409,13 +1084,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -1424,13 +1093,13 @@ Source: https://bankruptcymeanstest.org/district-of-columbia.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›District of Columbia
-
 District of Columbia Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for District of Columbia by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in District of Columbia. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in District of Columbia, the current median is approximately $99,636 per year. For a family of four, it is approximately $176,356. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 District of Columbia Median Income Thresholds (2026)
 
@@ -1505,18 +1174,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -1527,17 +1184,11 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
-## Means Test Expense Deductions (2026)
+## Means Test Expense Deductions: IRS Standards [2026]
 Source: https://bankruptcymeanstest.org/expense-deductions.html
 
 Skip to main content
@@ -1616,7 +1267,7 @@ Calculator
 
 Last updated: April 2026. Not legal advice.
 
-Part of the Bankruptcy Transparency Network
+Part of the Open Bankruptcy Project
 
 Related Guides
 
@@ -1628,7 +1279,7 @@ Free Bankruptcy Eligibility Screener
 
 Related Resources
 
-Rule 9037 PII Scanner (Open Source)
+Rule 9037 Compliance Guide
 
 Stay updated on new datasets and research findings
 
@@ -1638,7 +1289,7 @@ Subscribe
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-♥ Sponsor
+♥ Donate
 
 You May Also Find Helpful
 
@@ -1650,25 +1301,31 @@ Free Means Test Calculator -- meanstest.org
 
 Part of the Bankruptcy Transparency Network
 
-1328f.com
-1328f.org
-meanstest.org
-whatischapter7.com
-chapter13plan.org
-dischargebar.org
-523a.org
-howmuchdoesbankruptcycost.com
-openbankruptcyproject.org
-♥ Sponsor
+Real information, no strings.
 
-Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
@@ -1802,17 +1459,33 @@ What is Chapter 7 Bankruptcy?
 
 Chapter 7 Bankruptcy Guide
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-Part of the Open Bankruptcy Project | Free information, no strings.
+Real information, no strings.
 
-Privacy | Terms | Open Bankruptcy Project
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-No legal advice is provided. This is educational information only.
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 You May Also Find Helpful
 
@@ -1829,13 +1502,13 @@ Source: https://bankruptcymeanstest.org/florida.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Florida
-
 Florida Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Florida by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Florida. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Florida, the current median is approximately $69,876 per year. For a family of four, it is approximately $123,681. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Florida Median Income Thresholds (2026)
 
@@ -1881,6 +1554,28 @@ Florida Income and the Means Test
 
 The single-person median income threshold in Florida is $69,876, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+Florida Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 46,008 consumer bankruptcy cases filed in Florida federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 724,38994.2%5.1%
+
+Chapter 1321,61951.3%48.6%
+
+Chapter 7 Share
+
+53.0% of consumer filings
+
+Chapter 13 Share
+
+47.0% of consumer filings
+
+Florida stands out with a 51% Chapter 13 discharge rate among resolved cases - above the national norm. Plans that run to completion are the majority here. Chapter 7 in Florida is a high-completion path: 94% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. Consumer filings in Florida split 53.0% Chapter 7 and 47.0% Chapter 13, close to the national mix.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Florida
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -1912,18 +1607,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -1934,13 +1617,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -1953,7 +1630,7 @@ bankruptcymeanstest.org
 
 Home
 FAQ
-Espanol
+Español
 
 Means Test FAQ - Chapter 7 Eligibility Questions Answered
 
@@ -1967,7 +1644,7 @@ The means test is a two-part calculation that determines whether you qualify for
 
 What income is included in the means test?
 
-The means test uses your average monthly income for the 6 months before filing, including wages, salary, tips, bonuses, overtime, business income, rental income, pension, disability, unemployment, and contributions from others. Social Security income is excluded.
+The means test uses your average monthly income for the 6 months before filing, including wages, salary, tips, bonuses, overtime, business income, rental income, pensión, disability, unemployment, and contributions from others. Social Security income is excluded.
 
 What is the income limit for Chapter 7 in my state?
 
@@ -2021,6 +1698,8 @@ What is the difference between current monthly income and actual income?
 
 Current monthly income (CMI) is a legal term that means your average income over the 6 months before filing. It may be very different from your actual income at the time of filing. If you lost a job recently, your CMI may be higher than your actual current income.
 
+The means test is a two-part calculation that determines whether you qualify for Chapter 7 bankruptcy. First, it compares your household income to your state's median income. If you are below the median, you pass automatically. If above, a second calculation examines your disposable income after allowed expenses.
+
 More Resources on This Site
 
 How the Means Test Works
@@ -2045,22 +1724,35 @@ Exemptions by State
 
 Related Resources
 
-Rule 9037 PII Scanner (Open Source)
+Rule 9037 Compliance Guide
 
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-openbankruptcyproject.org
-1328f.com
-chapter7vs13.org
-bankruptcymeanstest.org
-♥ Sponsor
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -2069,13 +1761,13 @@ Source: https://bankruptcymeanstest.org/georgia.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Georgia
-
 Georgia Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Georgia by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Georgia. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Georgia, the current median is approximately $65,628 per year. For a family of four, it is approximately $116,162. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Georgia Median Income Thresholds (2026)
 
@@ -2121,6 +1813,28 @@ Georgia Income and the Means Test
 
 The single-person median income threshold in Georgia is $65,628, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+Georgia Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 1,240 consumer bankruptcy cases filed in Georgia federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 796998.6%0.8%
+
+Chapter 1327171.2%28.8%
+
+Chapter 7 Share
+
+78.1% of consumer filings
+
+Chapter 13 Share
+
+21.9% of consumer filings
+
+Georgia stands out with a 71% Chapter 13 discharge rate among resolved cases - above the national norm. Plans that run to completion are the majority here. Chapter 7 in Georgia is a high-completion path: 99% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. Georgia files more Chapter 7 than Chapter 13 (78.1% vs 21.9%), consistent with a state where median income supports more below-median filers and fewer debtors needing a 3-5 year repayment structure.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Georgia
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -2152,18 +1866,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -2174,13 +1876,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Relief from Automatic Stay -- relieffromstay.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2189,13 +1885,13 @@ Source: https://bankruptcymeanstest.org/hawaii.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Hawaii
-
 Hawaii Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Hawaii by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Hawaii. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Hawaii, the current median is approximately $86,427 per year. For a family of four, it is approximately $152,976. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Hawaii Median Income Thresholds (2026)
 
@@ -2270,18 +1966,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -2292,13 +1976,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2377,7 +2055,7 @@ Allowable Deductions
 
 Last updated: April 2026. Not legal advice.
 
-Part of the Bankruptcy Transparency Network
+Part of the Open Bankruptcy Project
 
 Related Guides
 
@@ -2389,7 +2067,7 @@ How to File Bankruptcy
 
 Related Resources
 
-Rule 9037 PII Scanner (Open Source)
+Rule 9037 Compliance Guide
 
 Stay updated on new datasets and research findings
 
@@ -2399,7 +2077,7 @@ Subscribe
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-♥ Sponsor
+♥ Donate
 
 People Also Ask
 
@@ -2421,25 +2099,31 @@ Free Means Test Calculator -- meanstest.org
 
 Part of the Bankruptcy Transparency Network
 
-1328f.com
-1328f.org
-meanstest.org
-whatischapter7.com
-chapter13plan.org
-dischargebar.org
-523a.org
-howmuchdoesbankruptcycost.com
-openbankruptcyproject.org
-♥ Sponsor
+Real information, no strings.
 
-Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
@@ -2448,13 +2132,13 @@ Source: https://bankruptcymeanstest.org/idaho.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Idaho
-
 Idaho Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Idaho by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Idaho. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Idaho, the current median is approximately $65,394 per year. For a family of four, it is approximately $115,747. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Idaho Median Income Thresholds (2026)
 
@@ -2529,18 +2213,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -2551,13 +2223,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2566,13 +2232,13 @@ Source: https://bankruptcymeanstest.org/illinois.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Illinois
-
 Illinois Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Illinois by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Illinois. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Illinois, the current median is approximately $74,430 per year. For a family of four, it is approximately $131,741. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Illinois Median Income Thresholds (2026)
 
@@ -2618,6 +2284,28 @@ Illinois Income and the Means Test
 
 The single-person median income threshold in Illinois is $74,430, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+Illinois Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 9,898 consumer bankruptcy cases filed in Illinois federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 76,72999.5%0.4%
+
+Chapter 133,16945.9%53.7%
+
+Chapter 7 Share
+
+68.0% of consumer filings
+
+Chapter 13 Share
+
+32.0% of consumer filings
+
+Illinois shows a Chapter 13 discharge rate of 46% in resolved cases, which is in the middle of the national distribution. Completion is meaningfully easier here than in the highest-dismissal districts, but still far from guaranteed. Chapter 7 in Illinois is a high-completion path: 99% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. Illinois files more Chapter 7 than Chapter 13 (68.0% vs 32.0%), consistent with a state where median income supports more below-median filers and fewer debtors needing a 3-5 year repayment structure.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Illinois
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -2649,18 +2337,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -2671,13 +2347,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2760,7 +2430,7 @@ Allowable Deductions
 
 Last updated: April 2026. Not legal advice.
 
-Part of the Bankruptcy Transparency Network
+Part of the Open Bankruptcy Project
 
 Related Guides
 
@@ -2772,7 +2442,7 @@ How to File Bankruptcy
 
 Related Resources
 
-Rule 9037 PII Scanner (Open Source)
+Rule 9037 Compliance Guide
 
 Stay updated on new datasets and research findings
 
@@ -2782,7 +2452,7 @@ Subscribe
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-♥ Sponsor
+♥ Donate
 
 You May Also Find Helpful
 
@@ -2794,36 +2464,42 @@ Free Means Test Calculator -- meanstest.org
 
 Part of the Bankruptcy Transparency Network
 
-1328f.com
-1328f.org
-meanstest.org
-whatischapter7.com
-chapter13plan.org
-dischargebar.org
-523a.org
-howmuchdoesbankruptcycost.com
-openbankruptcyproject.org
-♥ Sponsor
+Real information, no strings.
 
-Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
 ---
 
-## Bankruptcy Means Test by State: 2026 Income Limits and Eligibility
+## Bankruptcy Means Test Online: Free Calculator [2026]
 Source: https://bankruptcymeanstest.org/
 
 Skip to main content
 
-🌐 Esta pagina esta disponible en Espanol
+🌐 Esta página está disponible en Español
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 State Guides | Calculator | Common Mistakes | FAQ | Means Test Guide | Discharge Screener
 
@@ -2857,7 +2533,7 @@ Calculate your annualized current monthly income (6-month average times 12) and 
 
 Expense Deductions (Form 122A-2)
 
-If your income is above the median, you complete the full calculation. Subtract allowable deductions - IRS living expense standards, actual secured debt payments, taxes, health insurance, childcare, and more. If your remaining disposable income is below the threshold ($9,075 over 60 months), you still pass.
+If your income is above the median, you complete the full calculation. Subtract allowable deductions - IRS living expense standards, actual secured debt payments, taxes, health insurance, childcare, and more. If your remaining disposable income is below the threshold ($10,275 over 60 months), you still pass.
 
 If you do not pass either step, there is a presumption of abuse under Section 707(b)(2). You can try to rebut it with special circumstances, or you can file Chapter 13 repayment plan guide instead - Chapter 13 has no means test.
 
@@ -2958,7 +2634,7 @@ Median income level - Higher-median states (Connecticut, New Jersey, Maryland, M
 
 Cost of living - States with higher housing and transportation costs often see filers pass Step 2 even with above-median income, because allowed expense deductions are larger.
 
-State vs. federal exemptions - About two-thirds of states allow filers to choose between state and federal exemption sets. The rest require state exemptions only. This affects what property you can protect, not the income test itself, but it is a critical part of the filing decision.
+State vs. federal exemptions - About two-thirds of states allow filers to choose between state and federal exemption sets. The rest require state exemptions only. This affects what property you can protect, not the income test itself, but it is a critical part of the filing decisión.
 
 Number of bankruptcy districts - Large states like California (4 districts), New York (4), and Texas (4) have multiple districts with different local rules and procedures.
 
@@ -3184,11 +2860,9 @@ Subscribe
 
 We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
 
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
-
-♥ Sponsor
+♥ Donate
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -3276,20 +2950,31 @@ Exemptions vary dramatically by state. Check what you can protect.
 
 Browse Your State's Exemptions →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-Part of the Open Bankruptcy Project | Free information, no strings.
+Real information, no strings.
 
-Automatic Stay ·
-341 Meeting ·
-523(a) Exceptions ·
-727(a)(8) ·
-Ch 7 vs 13 ·
-How to File ·
-Cost Guide ·
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
 Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -3381,6 +3066,36 @@ Free Means Test Calculator -- meanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Googlezvjzyjfznkwziasscft56Wwvzodyv174Hor3Hvo 08Y
+Index
+Missouri Guide
+
 ---
 
 ## Chapter 7 Means Test Indiana: Income Limits and Calculator [2026]
@@ -3388,13 +3103,13 @@ Source: https://bankruptcymeanstest.org/indiana.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Indiana
-
 Indiana Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Indiana by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Indiana. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Indiana, the current median is approximately $63,399 per year. For a family of four, it is approximately $112,216. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Indiana Median Income Thresholds (2026)
 
@@ -3440,6 +3155,28 @@ Indiana Income and the Means Test
 
 The single-person median income threshold in Indiana is $63,399, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+Indiana Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 3,325 consumer bankruptcy cases filed in Indiana federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 779297.5%2.0%
+
+Chapter 132,53369.8%29.5%
+
+Chapter 7 Share
+
+23.8% of consumer filings
+
+Chapter 13 Share
+
+76.2% of consumer filings
+
+Indiana stands out with a 70% Chapter 13 discharge rate among resolved cases - above the national norm. Plans that run to completion are the majority here. Chapter 7 in Indiana is a high-completion path: 97% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. Indiana is a Chapter-13 heavy state (76.2% of consumer filings vs 23.8% for Chapter 7), reflecting the region's filing patterns where debtors more often retain property through a repayment plan than liquidate in Chapter 7.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Indiana
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -3471,18 +3208,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -3493,13 +3218,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3508,13 +3227,13 @@ Source: https://bankruptcymeanstest.org/iowa.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Iowa
-
 Iowa Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Iowa by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Iowa. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Iowa, the current median is approximately $68,223 per year. For a family of four, it is approximately $120,755. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Iowa Median Income Thresholds (2026)
 
@@ -3591,18 +3310,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -3613,13 +3320,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3628,13 +3329,13 @@ Source: https://bankruptcymeanstest.org/kansas.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Kansas
-
 Kansas Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Kansas by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Kansas. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Kansas, the current median is approximately $69,197 per year. For a family of four, it is approximately $122,479. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Kansas Median Income Thresholds (2026)
 
@@ -3680,6 +3381,28 @@ Kansas Income and the Means Test
 
 The single-person median income threshold in Kansas is $69,197, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+Kansas Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 40,849 consumer bankruptcy cases filed in Kansas federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 718,67399.4%0.5%
+
+Chapter 1322,17673.1%26.9%
+
+Chapter 7 Share
+
+45.7% of consumer filings
+
+Chapter 13 Share
+
+54.3% of consumer filings
+
+Kansas stands out with a 73% Chapter 13 discharge rate among resolved cases - above the national norm. Plans that run to completion are the majority here. Chapter 7 in Kansas is a high-completion path: 99% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. Consumer filings in Kansas split 45.7% Chapter 7 and 54.3% Chapter 13, close to the national mix.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Kansas
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -3709,18 +3432,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -3731,13 +3442,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3746,13 +3451,13 @@ Source: https://bankruptcymeanstest.org/kentucky.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Kentucky
-
 Kentucky Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Kentucky by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Kentucky. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Kentucky, the current median is approximately $58,632 per year. For a family of four, it is approximately $103,779. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Kentucky Median Income Thresholds (2026)
 
@@ -3798,6 +3503,28 @@ Kentucky Income and the Means Test
 
 With a single-person median income of $58,632, Kentucky has one of the lower income thresholds nationally. Filers whose income is close to this amount should carefully calculate their 6-month average, as even small fluctuations can determine whether they pass Part 1. Timing your filing date strategically can make a difference.
 
+Kentucky Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 1,692 consumer bankruptcy cases filed in Kentucky federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 731897.5%1.7%
+
+Chapter 131,37472.1%27.0%
+
+Chapter 7 Share
+
+18.8% of consumer filings
+
+Chapter 13 Share
+
+81.2% of consumer filings
+
+Kentucky stands out with a 72% Chapter 13 discharge rate among resolved cases - above the national norm. Plans that run to completion are the majority here. Chapter 7 in Kentucky is a high-completion path: 98% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. Kentucky is a Chapter-13 heavy state (81.2% of consumer filings vs 18.8% for Chapter 7), reflecting the region's filing patterns where debtors more often retain property through a repayment plan than liquidate in Chapter 7.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Kentucky
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -3829,18 +3556,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -3851,13 +3566,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3866,13 +3575,13 @@ Source: https://bankruptcymeanstest.org/louisiana.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Louisiana
-
 Louisiana Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Louisiana by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Louisiana. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Louisiana, the current median is approximately $57,528 per year. For a family of four, it is approximately $101,825. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Louisiana Median Income Thresholds (2026)
 
@@ -3949,18 +3658,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -3971,13 +3668,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3986,13 +3677,13 @@ Source: https://bankruptcymeanstest.org/maine.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Maine
-
 Maine Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Maine by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Maine. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Maine, the current median is approximately $67,692 per year. For a family of four, it is approximately $119,815. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Maine Median Income Thresholds (2026)
 
@@ -4067,18 +3758,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -4089,13 +3768,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4104,13 +3777,13 @@ Source: https://bankruptcymeanstest.org/maryland.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Maryland
-
 Maryland Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Maryland by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Maryland. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Maryland, the current median is approximately $97,203 per year. For a family of four, it is approximately $172,049. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Maryland Median Income Thresholds (2026)
 
@@ -4156,6 +3829,28 @@ Maryland Income and the Means Test
 
 With a single-person median income of $97,203, Maryland has one of the higher income thresholds in the country. This means more filers in Maryland may pass Part 1 of the means test compared to lower-income states. However, the higher cost of living in Maryland often offsets the higher median.
 
+Maryland Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 559 consumer bankruptcy cases filed in Maryland federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 742097.4%0.0%
+
+Chapter 13139Insufficient dataInsufficient data
+
+Chapter 7 Share
+
+75.1% of consumer filings
+
+Chapter 13 Share
+
+24.9% of consumer filings
+
+Maryland files more Chapter 7 than Chapter 13 (75.1% vs 24.9%), consistent with a state where median income supports more below-median filers and fewer debtors needing a 3-5 year repayment structure.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Maryland
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -4185,18 +3880,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -4207,13 +3890,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4222,13 +3899,13 @@ Source: https://bankruptcymeanstest.org/massachusetts.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Massachusetts
-
 Massachusetts Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Massachusetts by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Massachusetts. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Massachusetts, the current median is approximately $95,727 per year. For a family of four, it is approximately $169,437. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Massachusetts Median Income Thresholds (2026)
 
@@ -4274,6 +3951,28 @@ Massachusetts Income and the Means Test
 
 With a single-person median income of $95,727, Massachusetts has one of the higher income thresholds in the country. This means more filers in Massachusetts may pass Part 1 of the means test compared to lower-income states. However, the higher cost of living in Massachusetts often offsets the higher median.
 
+Massachusetts Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 1,356 consumer bankruptcy cases filed in Massachusetts federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 71,29098.3%0.9%
+
+Chapter 136659.1%40.9%
+
+Chapter 7 Share
+
+95.1% of consumer filings
+
+Chapter 13 Share
+
+4.9% of consumer filings
+
+Massachusetts stands out with a 59% Chapter 13 discharge rate among resolved cases - above the national norm. Plans that run to completion are the majority here. Chapter 7 in Massachusetts is a high-completion path: 98% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. Massachusetts files more Chapter 7 than Chapter 13 (95.1% vs 4.9%), consistent with a state where median income supports more below-median filers and fewer debtors needing a 3-5 year repayment structure.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Massachusetts
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -4303,18 +4002,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -4325,13 +4012,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4408,7 +4089,7 @@ Income Exclusions
 
 Last updated: April 2026. Not legal advice.
 
-Part of the Bankruptcy Transparency Network
+Part of the Open Bankruptcy Project
 
 Related Guides
 
@@ -4426,7 +4107,7 @@ Subscribe
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-♥ Sponsor
+♥ Donate
 
 You May Also Find Helpful
 
@@ -4438,25 +4119,31 @@ Free Means Test Calculator -- meanstest.org
 
 Part of the Bankruptcy Transparency Network
 
-1328f.com
-1328f.org
-meanstest.org
-whatischapter7.com
-chapter13plan.org
-dischargebar.org
-523a.org
-howmuchdoesbankruptcycost.com
-openbankruptcyproject.org
-♥ Sponsor
+Real information, no strings.
 
-Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
@@ -4465,13 +4152,13 @@ Source: https://bankruptcymeanstest.org/michigan.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Michigan
-
 Michigan Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Michigan by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Michigan. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Michigan, the current median is approximately $66,087 per year. For a family of four, it is approximately $116,974. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Michigan Median Income Thresholds (2026)
 
@@ -4517,6 +4204,28 @@ Michigan Income and the Means Test
 
 The single-person median income threshold in Michigan is $66,087, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+Michigan Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 1,133 consumer bankruptcy cases filed in Michigan federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 7633100.0%0.0%
+
+Chapter 1350048.3%51.0%
+
+Chapter 7 Share
+
+55.9% of consumer filings
+
+Chapter 13 Share
+
+44.1% of consumer filings
+
+Michigan shows a Chapter 13 discharge rate of 48% in resolved cases, which is in the middle of the national distribution. Completion is meaningfully easier here than in the highest-dismissal districts, but still far from guaranteed. Chapter 7 in Michigan is a high-completion path: 100% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. Michigan files more Chapter 7 than Chapter 13 (55.9% vs 44.1%), consistent with a state where median income supports more below-median filers and fewer debtors needing a 3-5 year repayment structure.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Michigan
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -4548,18 +4257,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -4570,13 +4267,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4585,13 +4276,13 @@ Source: https://bankruptcymeanstest.org/minnesota.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Minnesota
-
 Minnesota Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Minnesota by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Minnesota. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Minnesota, the current median is approximately $79,161 per year. For a family of four, it is approximately $140,115. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Minnesota Median Income Thresholds (2026)
 
@@ -4637,6 +4328,28 @@ Minnesota Income and the Means Test
 
 The single-person median income threshold in Minnesota is $79,161, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+Minnesota Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 395 consumer bankruptcy cases filed in Minnesota federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 737999.7%0.3%
+
+Chapter 1316Insufficient dataInsufficient data
+
+Chapter 7 Share
+
+95.9% of consumer filings
+
+Chapter 13 Share
+
+4.1% of consumer filings
+
+Minnesota files more Chapter 7 than Chapter 13 (95.9% vs 4.1%), consistent with a state where median income supports more below-median filers and fewer debtors needing a 3-5 year repayment structure.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Minnesota
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -4666,18 +4379,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -4688,13 +4389,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4703,13 +4398,13 @@ Source: https://bankruptcymeanstest.org/mississippi.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Mississippi
-
 Mississippi Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Mississippi by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Mississippi. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Mississippi, the current median is approximately $50,895 per year. For a family of four, it is approximately $90,084. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Mississippi Median Income Thresholds (2026)
 
@@ -4786,18 +4481,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -4808,13 +4491,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4942,17 +4619,33 @@ What is Chapter 7 Bankruptcy?
 
 Chapter 7 Bankruptcy Guide
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-Part of the Open Bankruptcy Project | Free information, no strings.
+Real information, no strings.
 
-Privacy | Terms | Open Bankruptcy Project
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-No legal advice is provided. This is educational information only.
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 You May Also Find Helpful
 
@@ -4969,13 +4662,13 @@ Source: https://bankruptcymeanstest.org/missouri.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Missouri
-
 Missouri Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Missouri by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Missouri. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Missouri, the current median is approximately $64,972 per year. For a family of four, it is approximately $115,000. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Missouri Median Income Thresholds (2026)
 
@@ -5021,6 +4714,28 @@ Missouri Income and the Means Test
 
 The single-person median income threshold in Missouri is $64,972, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+Missouri Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 45,771 consumer bankruptcy cases filed in Missouri federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 722,13299.0%0.8%
+
+Chapter 1323,63955.1%44.7%
+
+Chapter 7 Share
+
+48.4% of consumer filings
+
+Chapter 13 Share
+
+51.6% of consumer filings
+
+Missouri stands out with a 55% Chapter 13 discharge rate among resolved cases - above the national norm. Plans that run to completion are the majority here. Chapter 7 in Missouri is a high-completion path: 99% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. Consumer filings in Missouri split 48.4% Chapter 7 and 51.6% Chapter 13, close to the national mix.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Missouri
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -5052,18 +4767,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -5074,13 +4777,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5089,13 +4786,13 @@ Source: https://bankruptcymeanstest.org/montana.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Montana
-
 Montana Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Montana by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Montana. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Montana, the current median is approximately $66,501 per year. For a family of four, it is approximately $117,707. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Montana Median Income Thresholds (2026)
 
@@ -5170,18 +4867,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -5192,13 +4877,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5207,13 +4886,13 @@ Source: https://bankruptcymeanstest.org/nebraska.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Nebraska
-
 Nebraska Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Nebraska by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Nebraska. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Nebraska, the current median is approximately $71,277 per year. For a family of four, it is approximately $126,160. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Nebraska Median Income Thresholds (2026)
 
@@ -5259,6 +4938,28 @@ Nebraska Income and the Means Test
 
 The single-person median income threshold in Nebraska is $71,277, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+Nebraska Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 75 consumer bankruptcy cases filed in Nebraska federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 757100.0%0.0%
+
+Chapter 1318Insufficient dataInsufficient data
+
+Chapter 7 Share
+
+76.0% of consumer filings
+
+Chapter 13 Share
+
+24.0% of consumer filings
+
+Nebraska files more Chapter 7 than Chapter 13 (76.0% vs 24.0%), consistent with a state where median income supports more below-median filers and fewer debtors needing a 3-5 year repayment structure.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Nebraska
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -5288,18 +4989,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -5310,28 +4999,22 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
-## Chapter 7 Means Test Nevada: Income Limits and Calculator [2026]
+## Nevada Chapter 7 Means Test: Income Limits [2026]
 Source: https://bankruptcymeanstest.org/nevada.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
-
-Home›Means Test Guide›Nevada
 
 Nevada Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Nevada by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Nevada. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Nevada, the current median is approximately $68,271 per year. For a family of four, it is approximately $120,840. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Nevada Median Income Thresholds (2026)
 
@@ -5377,6 +5060,28 @@ Nevada Income and the Means Test
 
 The single-person median income threshold in Nevada is $68,271, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+Nevada Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 242 consumer bankruptcy cases filed in Nevada federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 716493.4%5.9%
+
+Chapter 137837.2%62.8%
+
+Chapter 7 Share
+
+67.8% of consumer filings
+
+Chapter 13 Share
+
+32.2% of consumer filings
+
+Nevada shows a Chapter 13 discharge rate of 37% in resolved cases, which is in the middle of the national distribution. Completion is meaningfully easier here than in the highest-dismissal districts, but still far from guaranteed. Chapter 7 in Nevada is a high-completion path: 93% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. Nevada files more Chapter 7 than Chapter 13 (67.8% vs 32.2%), consistent with a state where median income supports more below-median filers and fewer debtors needing a 3-5 year repayment structure.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Nevada
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -5406,18 +5111,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -5428,13 +5121,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5443,13 +5130,13 @@ Source: https://bankruptcymeanstest.org/new-hampshire.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›New Hampshire
-
 New Hampshire Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for New Hampshire by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in New Hampshire. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in New Hampshire, the current median is approximately $86,997 per year. For a family of four, it is approximately $153,985. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 New Hampshire Median Income Thresholds (2026)
 
@@ -5524,18 +5211,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -5546,13 +5221,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5561,13 +5230,13 @@ Source: https://bankruptcymeanstest.org/new-jersey.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›New Jersey
-
 New Jersey Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for New Jersey by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in New Jersey. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in New Jersey, the current median is approximately $93,051 per year. For a family of four, it is approximately $164,700. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 New Jersey Median Income Thresholds (2026)
 
@@ -5613,6 +5282,28 @@ New Jersey Income and the Means Test
 
 With a single-person median income of $93,051, New Jersey has one of the higher income thresholds in the country. This means more filers in New Jersey may pass Part 1 of the means test compared to lower-income states. However, the higher cost of living in New Jersey often offsets the higher median.
 
+New Jersey Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 1,580 consumer bankruptcy cases filed in New Jersey federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 752697.3%2.7%
+
+Chapter 131,05431.0%68.8%
+
+Chapter 7 Share
+
+33.3% of consumer filings
+
+Chapter 13 Share
+
+66.7% of consumer filings
+
+New Jersey shows a Chapter 13 discharge rate of 31% in resolved cases, which is in the middle of the national distribution. Completion is meaningfully easier here than in the highest-dismissal districts, but still far from guaranteed. Chapter 7 in New Jersey is a high-completion path: 97% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. New Jersey is a Chapter-13 heavy state (66.7% of consumer filings vs 33.3% for Chapter 7), reflecting the region's filing patterns where debtors more often retain property through a repayment plan than liquidate in Chapter 7.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in New Jersey
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -5642,18 +5333,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -5664,13 +5343,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5679,13 +5352,13 @@ Source: https://bankruptcymeanstest.org/new-mexico.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›New Mexico
-
 New Mexico Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for New Mexico by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in New Mexico. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in New Mexico, the current median is approximately $57,528 per year. For a family of four, it is approximately $101,825. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 New Mexico Median Income Thresholds (2026)
 
@@ -5760,18 +5433,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -5782,13 +5443,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5797,13 +5452,13 @@ Source: https://bankruptcymeanstest.org/new-york.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›New York
-
 New York Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for New York by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in New York. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in New York, the current median is approximately $73,272 per year. For a family of four, it is approximately $129,691. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 New York Median Income Thresholds (2026)
 
@@ -5849,6 +5504,28 @@ New York Income and the Means Test
 
 The single-person median income threshold in New York is $73,272, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+New York Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 1,231 consumer bankruptcy cases filed in New York federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 71,14598.7%1.2%
+
+Chapter 138628.2%71.8%
+
+Chapter 7 Share
+
+93.0% of consumer filings
+
+Chapter 13 Share
+
+7.0% of consumer filings
+
+In New York, Chapter 13 cases show a 28% discharge rate among resolved cases - meaning roughly two in three filers who finish their Chapter 13 plan never reach discharge. This is a well-documented national pattern driven by the 3-to-5-year plan duration and the difficulty of maintaining plan payments through job loss, medical events, or car repair expenses. Filers considering Chapter 13 in New York should take this completion rate seriously when comparing it to Chapter 7. Chapter 7 in New York is a high-completion path: 99% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. New York files more Chapter 7 than Chapter 13 (93.0% vs 7.0%), consistent with a state where median income supports more below-median filers and fewer debtors needing a 3-5 year repayment structure.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in New York
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -5880,18 +5557,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -5902,13 +5567,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5917,13 +5576,13 @@ Source: https://bankruptcymeanstest.org/north-carolina.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›North Carolina
-
 North Carolina Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for North Carolina by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in North Carolina. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in North Carolina, the current median is approximately $63,339 per year. For a family of four, it is approximately $112,110. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 North Carolina Median Income Thresholds (2026)
 
@@ -5969,6 +5628,28 @@ North Carolina Income and the Means Test
 
 The single-person median income threshold in North Carolina is $63,339, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+North Carolina Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 827 consumer bankruptcy cases filed in North Carolina federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 7273Insufficient dataInsufficient data
+
+Chapter 13554Insufficient dataInsufficient data
+
+Chapter 7 Share
+
+33.0% of consumer filings
+
+Chapter 13 Share
+
+67.0% of consumer filings
+
+North Carolina is a Chapter-13 heavy state (67.0% of consumer filings vs 33.0% for Chapter 7), reflecting the region's filing patterns where debtors more often retain property through a repayment plan than liquidate in Chapter 7.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in North Carolina
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -6000,18 +5681,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -6022,13 +5691,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6037,13 +5700,13 @@ Source: https://bankruptcymeanstest.org/north-dakota.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›North Dakota
-
 North Dakota Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for North Dakota by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in North Dakota. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in North Dakota, the current median is approximately $73,749 per year. For a family of four, it is approximately $130,536. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 North Dakota Median Income Thresholds (2026)
 
@@ -6118,18 +5781,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -6140,13 +5791,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6155,13 +5800,13 @@ Source: https://bankruptcymeanstest.org/ohio.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Ohio
-
 Ohio Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Ohio by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Ohio. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Ohio, the current median is approximately $63,564 per year. For a family of four, it is approximately $112,508. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Ohio Median Income Thresholds (2026)
 
@@ -6207,6 +5852,28 @@ Ohio Income and the Means Test
 
 The single-person median income threshold in Ohio is $63,564, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+Ohio Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 3,971 consumer bankruptcy cases filed in Ohio federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 73,53597.7%1.8%
+
+Chapter 1343651.1%48.9%
+
+Chapter 7 Share
+
+89.0% of consumer filings
+
+Chapter 13 Share
+
+11.0% of consumer filings
+
+Ohio stands out with a 51% Chapter 13 discharge rate among resolved cases - above the national norm. Plans that run to completion are the majority here. Chapter 7 in Ohio is a high-completion path: 98% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. Ohio files more Chapter 7 than Chapter 13 (89.0% vs 11.0%), consistent with a state where median income supports more below-median filers and fewer debtors needing a 3-5 year repayment structure.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Ohio
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -6238,18 +5905,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -6260,13 +5915,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6275,13 +5924,13 @@ Source: https://bankruptcymeanstest.org/oklahoma.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Oklahoma
-
 Oklahoma Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Oklahoma by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Oklahoma. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Oklahoma, the current median is approximately $60,636 per year. For a family of four, it is approximately $107,326. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Oklahoma Median Income Thresholds (2026)
 
@@ -6327,6 +5976,28 @@ Oklahoma Income and the Means Test
 
 With a single-person median income of $60,636, Oklahoma has one of the lower income thresholds nationally. Filers whose income is close to this amount should carefully calculate their 6-month average, as even small fluctuations can determine whether they pass Part 1. Timing your filing date strategically can make a difference.
 
+Oklahoma Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 112 consumer bankruptcy cases filed in Oklahoma federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 711099.1%0.9%
+
+Chapter 132Insufficient dataInsufficient data
+
+Chapter 7 Share
+
+98.2% of consumer filings
+
+Chapter 13 Share
+
+1.8% of consumer filings
+
+Oklahoma files more Chapter 7 than Chapter 13 (98.2% vs 1.8%), consistent with a state where median income supports more below-median filers and fewer debtors needing a 3-5 year repayment structure.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Oklahoma
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -6358,18 +6029,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -6380,13 +6039,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6395,13 +6048,13 @@ Source: https://bankruptcymeanstest.org/oregon.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Oregon
-
 Oregon Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Oregon by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Oregon. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Oregon, the current median is approximately $73,347 per year. For a family of four, it is approximately $129,824. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Oregon Median Income Thresholds (2026)
 
@@ -6476,18 +6129,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -6498,13 +6139,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6513,13 +6148,13 @@ Source: https://bankruptcymeanstest.org/pennsylvania.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Pennsylvania
-
 Pennsylvania Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Pennsylvania by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Pennsylvania. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Pennsylvania, the current median is approximately $71,547 per year. For a family of four, it is approximately $126,638. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Pennsylvania Median Income Thresholds (2026)
 
@@ -6565,6 +6200,28 @@ Pennsylvania Income and the Means Test
 
 The single-person median income threshold in Pennsylvania is $71,547, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+Pennsylvania Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 1,513 consumer bankruptcy cases filed in Pennsylvania federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 7415Insufficient dataInsufficient data
+
+Chapter 131,098Insufficient dataInsufficient data
+
+Chapter 7 Share
+
+27.4% of consumer filings
+
+Chapter 13 Share
+
+72.6% of consumer filings
+
+Pennsylvania is a Chapter-13 heavy state (72.6% of consumer filings vs 27.4% for Chapter 7), reflecting the region's filing patterns where debtors more often retain property through a repayment plan than liquidate in Chapter 7.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Pennsylvania
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -6596,18 +6253,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -6618,13 +6263,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6633,13 +6272,13 @@ Source: https://bankruptcymeanstest.org/rhode-island.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Rhode Island
-
 Rhode Island Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Rhode Island by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Rhode Island. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Rhode Island, the current median is approximately $77,358 per year. For a family of four, it is approximately $136,924. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Rhode Island Median Income Thresholds (2026)
 
@@ -6714,18 +6353,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -6736,13 +6363,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6751,13 +6372,13 @@ Source: https://bankruptcymeanstest.org/south-carolina.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›South Carolina
-
 South Carolina Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for South Carolina by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in South Carolina. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in South Carolina, the current median is approximately $61,050 per year. For a family of four, it is approximately $108,058. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 South Carolina Median Income Thresholds (2026)
 
@@ -6803,6 +6424,28 @@ South Carolina Income and the Means Test
 
 The single-person median income threshold in South Carolina is $61,050, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+South Carolina Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 635 consumer bankruptcy cases filed in South Carolina federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 7301Insufficient dataInsufficient data
+
+Chapter 13334Insufficient dataInsufficient data
+
+Chapter 7 Share
+
+47.4% of consumer filings
+
+Chapter 13 Share
+
+52.6% of consumer filings
+
+Consumer filings in South Carolina split 47.4% Chapter 7 and 52.6% Chapter 13, close to the national mix.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in South Carolina
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -6832,18 +6475,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -6854,13 +6485,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6869,13 +6494,13 @@ Source: https://bankruptcymeanstest.org/south-dakota.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›South Dakota
-
 South Dakota Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for South Dakota by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in South Dakota. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in South Dakota, the current median is approximately $68,208 per year. For a family of four, it is approximately $120,728. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 South Dakota Median Income Thresholds (2026)
 
@@ -6950,18 +6575,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -6972,13 +6585,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6987,13 +6594,13 @@ Source: https://bankruptcymeanstest.org/tennessee.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Tennessee
-
 Tennessee Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Tennessee by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Tennessee. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Tennessee, the current median is approximately $61,602 per year. For a family of four, it is approximately $109,036. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Tennessee Median Income Thresholds (2026)
 
@@ -7039,6 +6646,28 @@ Tennessee Income and the Means Test
 
 The single-person median income threshold in Tennessee is $61,602, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+Tennessee Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 1,840 consumer bankruptcy cases filed in Tennessee federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 758995.5%4.5%
+
+Chapter 131,25117.3%82.7%
+
+Chapter 7 Share
+
+32.0% of consumer filings
+
+Chapter 13 Share
+
+68.0% of consumer filings
+
+In Tennessee, Chapter 13 cases show a 17% discharge rate among resolved cases - meaning roughly two in three filers who finish their Chapter 13 plan never reach discharge. This is a well-documented national pattern driven by the 3-to-5-year plan duration and the difficulty of maintaining plan payments through job loss, medical events, or car repair expenses. Filers considering Chapter 13 in Tennessee should take this completion rate seriously when comparing it to Chapter 7. Chapter 7 in Tennessee is a high-completion path: 95% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. Tennessee is a Chapter-13 heavy state (68.0% of consumer filings vs 32.0% for Chapter 7), reflecting the region's filing patterns where debtors more often retain property through a repayment plan than liquidate in Chapter 7.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Tennessee
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -7070,18 +6699,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -7092,13 +6709,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7107,13 +6718,13 @@ Source: https://bankruptcymeanstest.org/texas.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Texas
-
 Texas Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Texas by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Texas. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Texas, the current median is approximately $66,837 per year. For a family of four, it is approximately $118,301. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Texas Median Income Thresholds (2026)
 
@@ -7159,6 +6770,28 @@ Texas Income and the Means Test
 
 The single-person median income threshold in Texas is $66,837, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+Texas Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 30,781 consumer bankruptcy cases filed in Texas federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 711,84497.8%2.0%
+
+Chapter 1318,93736.8%63.2%
+
+Chapter 7 Share
+
+38.5% of consumer filings
+
+Chapter 13 Share
+
+61.5% of consumer filings
+
+Texas shows a Chapter 13 discharge rate of 37% in resolved cases, which is in the middle of the national distribution. Completion is meaningfully easier here than in the highest-dismissal districts, but still far from guaranteed. Chapter 7 in Texas is a high-completion path: 98% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. Texas is a Chapter-13 heavy state (61.5% of consumer filings vs 38.5% for Chapter 7), reflecting the region's filing patterns where debtors more often retain property through a repayment plan than liquidate in Chapter 7.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Texas
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -7190,18 +6823,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -7212,13 +6833,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7227,13 +6842,13 @@ Source: https://bankruptcymeanstest.org/utah.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Utah
-
 Utah Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Utah by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Utah. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Utah, the current median is approximately $73,044 per year. For a family of four, it is approximately $129,288. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Utah Median Income Thresholds (2026)
 
@@ -7308,18 +6923,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -7330,13 +6933,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7345,13 +6942,13 @@ Source: https://bankruptcymeanstest.org/vermont.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Vermont
-
 Vermont Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Vermont by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Vermont. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Vermont, the current median is approximately $71,007 per year. For a family of four, it is approximately $125,682. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Vermont Median Income Thresholds (2026)
 
@@ -7426,18 +7023,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -7448,13 +7033,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7463,13 +7042,13 @@ Source: https://bankruptcymeanstest.org/virginia.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Virginia
-
 Virginia Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Virginia by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Virginia. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Virginia, the current median is approximately $84,396 per year. For a family of four, it is approximately $149,381. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Virginia Median Income Thresholds (2026)
 
@@ -7515,6 +7094,28 @@ Virginia Income and the Means Test
 
 With a single-person median income of $84,396, Virginia has one of the higher income thresholds in the country. This means more filers in Virginia may pass Part 1 of the means test compared to lower-income states. However, the higher cost of living in Virginia often offsets the higher median.
 
+Virginia Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 1,064 consumer bankruptcy cases filed in Virginia federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 7514Insufficient dataInsufficient data
+
+Chapter 1355071.2%28.7%
+
+Chapter 7 Share
+
+48.3% of consumer filings
+
+Chapter 13 Share
+
+51.7% of consumer filings
+
+Consumer filings in Virginia split 48.3% Chapter 7 and 51.7% Chapter 13, close to the national mix.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Virginia
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -7546,18 +7147,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -7568,13 +7157,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7583,13 +7166,13 @@ Source: https://bankruptcymeanstest.org/washington.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Washington
-
 Washington Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Washington by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Washington. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Washington, the current median is approximately $85,446 per year. For a family of four, it is approximately $151,239. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Washington Median Income Thresholds (2026)
 
@@ -7666,18 +7249,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -7688,13 +7259,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7703,13 +7268,13 @@ Source: https://bankruptcymeanstest.org/west-virginia.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›West Virginia
-
 West Virginia Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for West Virginia by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in West Virginia. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in West Virginia, the current median is approximately $53,196 per year. For a family of four, it is approximately $94,157. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 West Virginia Median Income Thresholds (2026)
 
@@ -7755,6 +7320,28 @@ West Virginia Income and the Means Test
 
 With a single-person median income of $53,196, West Virginia has one of the lower income thresholds nationally. Filers whose income is close to this amount should carefully calculate their 6-month average, as even small fluctuations can determine whether they pass Part 1. Timing your filing date strategically can make a difference.
 
+West Virginia Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 60 consumer bankruptcy cases filed in West Virginia federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 75498.1%1.9%
+
+Chapter 136Insufficient dataInsufficient data
+
+Chapter 7 Share
+
+90.0% of consumer filings
+
+Chapter 13 Share
+
+10.0% of consumer filings
+
+West Virginia files more Chapter 7 than Chapter 13 (90.0% vs 10.0%), consistent with a state where median income supports more below-median filers and fewer debtors needing a 3-5 year repayment structure.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in West Virginia
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -7786,18 +7373,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -7808,13 +7383,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7823,13 +7392,13 @@ Source: https://bankruptcymeanstest.org/wisconsin.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Wisconsin
-
 Wisconsin Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Wisconsin by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Wisconsin. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Wisconsin, the current median is approximately $70,092 per year. For a family of four, it is approximately $124,063. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Wisconsin Median Income Thresholds (2026)
 
@@ -7875,6 +7444,28 @@ Wisconsin Income and the Means Test
 
 The single-person median income threshold in Wisconsin is $70,092, which is near the national middle range. Filers whose income is close to this threshold should carefully average their last 6 calendar months of gross income. If one or two months had unusually high income (bonus, overtime, severance), waiting for those months to fall outside the 6-month window can change the result.
 
+Wisconsin Bankruptcy Filing Reality (FJC Data)
+
+Numbers from the Federal Judicial Center Integrated Database covering 1,541 consumer bankruptcy cases filed in Wisconsin federal bankruptcy courts. These are actual case outcomes - not estimates - and show what really happens after filing.
+
+ChapterCases FiledDischarge RateDismissal Rate
+
+Chapter 795399.4%0.4%
+
+Chapter 1358848.1%51.9%
+
+Chapter 7 Share
+
+61.8% of consumer filings
+
+Chapter 13 Share
+
+38.2% of consumer filings
+
+Wisconsin shows a Chapter 13 discharge rate of 48% in resolved cases, which is in the middle of the national distribution. Completion is meaningfully easier here than in the highest-dismissal districts, but still far from guaranteed. Chapter 7 in Wisconsin is a high-completion path: 99% of resolved filings receive discharge. For filers who pass the means test, this is a reliable outcome. Wisconsin files more Chapter 7 than Chapter 13 (61.8% vs 38.2%), consistent with a state where median income supports more below-median filers and fewer debtors needing a 3-5 year repayment structure.
+
+Discharge and dismissal rates are computed on resolved cases only; pending cases are excluded. Source: FJC Integrated Database.
+
 Tips for Filing in Wisconsin
 
 Gather all income documentation for the 6 full calendar months before your planned filing date, including pay stubs, tax returns, 1099s, and bank statements.
@@ -7906,18 +7497,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -7928,13 +7507,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7943,13 +7516,13 @@ Source: https://bankruptcymeanstest.org/wyoming.html
 
 Means Test Guide | Calculator | Discharge Screener | Research
 
-Home›Means Test Guide›Wyoming
-
 Wyoming Chapter 7 Means Test: Do You Qualify?
 
 2026 median income limits for Wyoming by household size. Free calculator and filing guide.
 
 Important: This page provides educational information about the Chapter 7 means test in Wyoming. Median income data is approximate, based on Census Bureau / DOJ figures effective April 2026. Figures are updated every April and November. Verify current amounts at the DOJ Means Testing page. This is not legal advice.
+
+There is no single income limit. The means test compares your annualized income (6-month average times 12) to the median income for your household size. For a single person in Wyoming, the current median is approximately $71,571 per year. For a family of four, it is approximately $126,681. If your income is below the median for your household size, you pass Part 1 of the means test.
 
 Wyoming Median Income Thresholds (2026)
 
@@ -8024,18 +7597,6 @@ Free tools and guides from the Open Bankruptcy Project.
 Means Test Calculator
 Exemptions by State
 
-Related Guides
-
-Chapter 7 Filing Bar Rules
-
-727(a)(8) Eight-Year Filing Bar
-
-Means Test Guide
-
-What is Chapter 7 Bankruptcy?
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Open Bankruptcy Project | Free information, no strings.
 
 Automatic Stay ·
@@ -8046,13 +7607,7 @@ Ch 7 vs 13 ·
 How to File ·
 Cost Guide
 
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Free Means Test Calculator -- meanstest.org
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -8112,7 +7667,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -8122,7 +7677,62 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About bankruptcymeanstest.org
+Source: https://bankruptcymeanstest.org/about.html
+
+bankruptcymeanstest.org
+
+Home
+About
+Privacy
+
+About bankruptcymeanstest.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+bankruptcymeanstest.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
 
@@ -8187,19 +7797,21 @@ How Means Test Works
 
 Common Mistakes
 
-Part of the Bankruptcy Transparency Network
+Part of the Open Bankruptcy Project
 
 Real information, no strings.
 
 1328f.com
 1328f.org
 openbankruptcyproject.org
-♥ Sponsor
+♥ Donate
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
 
 Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ### Common Questions - Bankruptcy Means Test by State
 Source: https://bankruptcymeanstest.org/paa/index.html
@@ -8237,12 +7849,36 @@ Does the means test count my spouse's income?
 
 If you are married and filing individually, your spouse's income is included in the household income calculation but their expenses can be deducted. If you file jointly, both incomes and expenses are combined. In some cases, filing individually can be more favorable.
 
-Part of the Bankruptcy Transparency Network
+Part of the Open Bankruptcy Project
 
 1328f.com
 openbankruptcyproject.org
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
 
 ### What expenses can I deduct on the means test? - Bankruptcy Means Test by State
 Source: https://bankruptcymeanstest.org/paa/what-expenses-can-i-deduct-on-the-means-test.html
@@ -8308,21 +7944,23 @@ How Means Test Works
 
 Related Resources
 
-Rule 9037 PII Scanner (Open Source)
+Rule 9037 Compliance Guide
 
-Part of the Bankruptcy Transparency Network
+Part of the Open Bankruptcy Project
 
 Real information, no strings.
 
 1328f.com
 1328f.org
 openbankruptcyproject.org
-♥ Sponsor
+♥ Donate
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
 
 Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ### What is the means test for bankruptcy? - Bankruptcy Means Test by State
 Source: https://bankruptcymeanstest.org/paa/what-is-the-means-test-for-bankruptcy.html
@@ -8366,16 +8004,18 @@ Calculator
 
 Index
 
-Part of the Bankruptcy Transparency Network
+Part of the Open Bankruptcy Project
 
 Real information, no strings.
 
 1328f.com
 1328f.org
 openbankruptcyproject.org
-♥ Sponsor
+♥ Donate
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
 
 Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5

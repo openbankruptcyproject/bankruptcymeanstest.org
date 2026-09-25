@@ -1,7 +1,7 @@
-# Bankruptcy Means Test by State: 2026 Income Limits and Eligibility
-> Last updated: 2026-05-01
+# Bankruptcy Means Test Online: Free Calculator [2026]
+> Last updated: 2026-09-25
 
-> Pass the bankruptcy means test? Use our free calculator to check Chapter 7 eligibility based on your income and expenses. Updated for 2026 fi...
+> Free bankruptcy means test online. Calculate Chapter 7 eligibility by income, expenses, and household size. No signup, instant 2026 result.
 
 ## About
 bankruptcymeanstest.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
@@ -11,14 +11,13 @@ bankruptcymeanstest.org is part of the Open Bankruptcy Project (openbankruptcypr
 - Chapter 7 Means Test Alaska: Income Limits and Calculator: https://bankruptcymeanstest.org/alaska.html
 - Chapter 7 Means Test Arizona: Income Limits and Calculator: https://bankruptcymeanstest.org/arizona.html
 - Chapter 7 Means Test Arkansas: Income Limits and Calculator: https://bankruptcymeanstest.org/arkansas.html
-- Chapter 7 Means Test Calculator: Parts 1 and 2: https://bankruptcymeanstest.org/calculator.html
 - Chapter 7 Means Test California: Income Limits and Calculator: https://bankruptcymeanstest.org/california.html
 - Chapter 7 Means Test Colorado: Income Limits and Calculator: https://bankruptcymeanstest.org/colorado.html
 - Common Mistakes with Means Test Guide: https://bankruptcymeanstest.org/common-mistakes.html
 - Chapter 7 Means Test Connecticut: Income Limits and Calculator: https://bankruptcymeanstest.org/connecticut.html
 - Chapter 7 Means Test Delaware: Income Limits and Calculator: https://bankruptcymeanstest.org/delaware.html
 - Chapter 7 Means Test District of Columbia: Income Limits and Calculator: https://bankruptcymeanstest.org/district-of-columbia.html
-- Means Test Expense Deductions (2026): https://bankruptcymeanstest.org/expense-deductions.html
+- Means Test Expense Deductions: IRS Standards: https://bankruptcymeanstest.org/expense-deductions.html
 - Frequently Asked Questions About Means Test Guide: https://bankruptcymeanstest.org/faq.html
 - Chapter 7 Means Test Florida: Income Limits and Calculator: https://bankruptcymeanstest.org/florida.html
 - Means Test FAQ - Chapter 7 Eligibility Questions Answered: https://bankruptcymeanstest.org/frequently-asked-questions.html
@@ -28,7 +27,7 @@ bankruptcymeanstest.org is part of the Open Bankruptcy Project (openbankruptcypr
 - Chapter 7 Means Test Idaho: Income Limits and Calculator: https://bankruptcymeanstest.org/idaho.html
 - Chapter 7 Means Test Illinois: Income Limits and Calculator: https://bankruptcymeanstest.org/illinois.html
 - Means Test Income Exclusions (2026): https://bankruptcymeanstest.org/income-exclusions.html
-- Bankruptcy Means Test by State: 2026 Income Limits and Eligibility: https://bankruptcymeanstest.org/
+- Bankruptcy Means Test Online: Free Calculator: https://bankruptcymeanstest.org/
 - Chapter 7 Means Test Indiana: Income Limits and Calculator: https://bankruptcymeanstest.org/indiana.html
 - Chapter 7 Means Test Iowa: Income Limits and Calculator: https://bankruptcymeanstest.org/iowa.html
 - Chapter 7 Means Test Kansas: Income Limits and Calculator: https://bankruptcymeanstest.org/kansas.html
@@ -45,7 +44,7 @@ bankruptcymeanstest.org is part of the Open Bankruptcy Project (openbankruptcypr
 - Chapter 7 Means Test Missouri: Income Limits and Calculator: https://bankruptcymeanstest.org/missouri.html
 - Chapter 7 Means Test Montana: Income Limits and Calculator: https://bankruptcymeanstest.org/montana.html
 - Chapter 7 Means Test Nebraska: Income Limits and Calculator: https://bankruptcymeanstest.org/nebraska.html
-- Chapter 7 Means Test Nevada: Income Limits and Calculator: https://bankruptcymeanstest.org/nevada.html
+- Nevada Chapter 7 Means Test: Income Limits: https://bankruptcymeanstest.org/nevada.html
 - Chapter 7 Means Test New Hampshire: Income Limits and Calculator: https://bankruptcymeanstest.org/new-hampshire.html
 - Chapter 7 Means Test New Jersey: Income Limits and Calculator: https://bankruptcymeanstest.org/new-jersey.html
 - Chapter 7 Means Test New Mexico: Income Limits and Calculator: https://bankruptcymeanstest.org/new-mexico.html
@@ -69,6 +68,7 @@ bankruptcymeanstest.org is part of the Open Bankruptcy Project (openbankruptcypr
 - Chapter 7 Means Test Wisconsin: Income Limits and Calculator: https://bankruptcymeanstest.org/wisconsin.html
 - Chapter 7 Means Test Wyoming: Income Limits and Calculator: https://bankruptcymeanstest.org/wyoming.html
 - Privacy Policy: https://bankruptcymeanstest.org/privacy.html
+- About bankruptcymeanstest.org: https://bankruptcymeanstest.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
